@@ -1,0 +1,4603 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Begin 20231214\n"
+"POT-Creation-Date: 2026-03-14 18:44+0800\n"
+"PO-Revision-Date: 2026-03-14 18:47+0800\n"
+"Last-Translator: \n"
+"Language-Team: zmingcx.com\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: inc/options-theme\n"
+"X-Poedit-SearchPathExcluded-2: inc/function/lazy-avatars.php\n"
+
+#: build/group-assets.php:64 build/group-assets.php:122
+#: build/group-cat-hot.php:26 build/group-cat-hot.php:166
+#: build/group-cat-img.php:77 build/group-down.php:28 build/group-down.php:95
+#: build/group-features.php:49 build/group-portfolio.php:25
+#: build/group-portfolio.php:146 build/group-show.php:64 build/group-tao.php:96
+#: group/group-assets.php:64 group/group-assets.php:122
+#: group/group-cat-hot.php:26 group/group-cat-hot.php:163
+#: group/group-cat-img.php:75 group/group-down.php:28 group/group-down.php:97
+#: group/group-features.php:46 group/group-portfolio.php:25
+#: group/group-portfolio.php:147 group/group-show.php:63 group/group-tao.php:94
+#: inc/shortcode/module/mo-box.php:83 inc/user-center.php:318
+#: inc/widgets/widget-comment-list.php:49
+#: inc/widgets/widget-special-list.php:101 pages/template-picture.php:23
+#: pages/template-picture.php:38 pages/template-tao.php:22
+#: pages/template-tao.php:86 pages/template-video.php:23
+#: pages/template-video.php:37 template-woo.php:23 template-woo.php:51
+#: template/cat-ajax-code.php:945 woocommerce/be-woo/group-woo.php:66
+msgid "更多"
+msgstr "More"
+
+#: build/group-carousel.php:89 cms/cms-scrolling.php:69
+#: group/group-carousel.php:86 inc/shortcode/module/mo-carousel.php:62
+#: inc/widgets/widget-ajax-tab.php:188 inc/widgets/widget-ajax-tab.php:203
+#: inc/widgets/widget-ajax-tab.php:218 inc/widgets/widget-ajax-tab.php:233
+#: inc/widgets/widget-ajax-tab.php:248 inc/widgets/widget-ajax-tab.php:263
+#: inc/widgets/widget-slider.php:74 template/single-scrolling.php:51
+msgid "加载中..."
+msgstr "Loading..."
+
+#: build/group-explain.php:51 build/group-post.php:47
+#: group/group-explain.php:51 group/group-post.php:47
+msgid "详细查看"
+msgstr "More"
+
+#: category-assets.php:38 template/assets.php:27
+msgid "购买"
+msgstr "Buy"
+
+#: category-assets.php:47 template-woo.php:44 template/assets.php:36
+#: woocommerce/be-woo/cms-woo.php:40 woocommerce/be-woo/group-woo.php:56
+msgid "详情"
+msgstr "Details"
+
+#: category-assets.php:52 template/assets.php:41 template/down-card.php:42
+#: template/down-img.php:60
+msgid "付费"
+msgstr "Pay"
+
+#: category-assets.php:55 inc/share-poster.php:281 template/assets.php:44
+#: template/down-card.php:45 template/down-img.php:64
+msgid "分享"
+msgstr "Share"
+
+#: category-assets.php:56 category-assets.php:60 template/assets.php:45
+#: template/assets.php:49
+msgid "查看"
+msgstr "View"
+
+#: category-child-hot.php:33 category-child-portfolio.php:36
+#: inc/be-special.php:28 inc/be-special.php:92 inc/be-special.php:139
+#: inc/be-special.php:210 inc/breadcrumb.php:268 inc/breadcrumb.php:322
+#: inc/widgets/widget-author.php:75 inc/widgets/widget-calendar.php:284
+#: inc/widgets/widget-column-cover.php:100
+#: inc/widgets/widget-special-img.php:64 inc/widgets/widget-special-list.php:95
+#: pages/template-all-special.php:30 pages/template-archives.php:51
+#: taxonomy-special.php:117 template/header-img.php:58
+msgid "篇"
+msgstr "Article"
+
+#: category-child-nav.php:39 inc/ajax-template.php:23 inc/ajax-template.php:56
+#: inc/ajax-template.php:89 inc/be-cover.php:46
+#: inc/shortcode/module/mo-cover.php:54 inc/widgets/widget-cover.php:82
+#: search.php:29
+msgid "暂无描述"
+msgstr "No description"
+
+#: category-note.php:10 category-notes.php:10 single-note.php:10
+#: single-notes.php:10
+msgid "展开全部"
+msgstr "Show"
+
+#: category-note.php:19 category-note.php:65 category-notes.php:143
+#: single-note.php:18 single-note.php:75 single-notes.php:148
+#: single-novel.php:63 template/scroll.php:23 template/scroll.php:25
+msgid "目录"
+msgstr "Contents"
+
+#: category-note.php:85 category-notes.php:163 inc/sites-favorites.php:65
+msgid "简介"
+msgstr "View"
+
+#: category-note.php:89 category-notes.php:167 category-novel.php:107
+#: inc/inc.php:3305 inc/widgets/widget-site-profile.php:56
+#: pages/template-archives.php:118
+msgid "更新"
+msgstr "Date"
+
+#: category-note.php:103 category-notes.php:181 category-novel.php:187
+#: cms/cms-new-code.php:5 cms/cms-news-card.php:4 cms/cms-news-grid.php:3
+msgid "最新"
+msgstr "New"
+
+#: category-novel.php:57 category-novel.php:68 inc/inc.php:2024
+#: inc/widgets/widget-about-author.php:186 inc/widgets/widget-ajax-tab.php:487
+msgid "暂无"
+msgstr "None"
+
+#: category-novel.php:94 inc/frontend-publish.php:249
+msgid "发表"
+msgstr "Publish"
+
+#: category-novel.php:129
+msgid "开始阅读"
+msgstr "Read"
+
+#: category-novel.php:131 inc/section.php:184
+msgid "继续阅读"
+msgstr "Continue"
+
+#: category-novel.php:137
+msgid "书签"
+msgstr "Bookmark"
+
+#: category-novel.php:144
+msgid "作品简介"
+msgstr "Work overview"
+
+#: category-novel.php:145 single-novel.php:75
+msgid "章节目录"
+msgstr "Chapter"
+
+#: cms/cms-rss.php:41 inc/section.php:887 inc/widgets/widget-rss.php:59
+#: inc/widgets/widget-specified-post.php:99
+#: inc/widgets/widget-timing-post.php:62 taxonomy-notice.php:117
+msgid "暂无文章"
+msgstr "No Articles"
+
+#: cms/cms-top.php:18 cms/cms-top.php:37 cms/cms-top.php:67 inc/section.php:365
+#: inc/section.php:374 template/b-top.php:17 template/b-top.php:36
+#: template/b-top.php:66 template/img-top.php:15
+msgid "推荐"
+msgstr "Top"
+
+#: comments.php:29
+msgid "来自外部的引用"
+msgstr "Trackbacks"
+
+#: comments.php:53 comments.php:63 inc/seo-tdk.php:6
+msgid "第"
+msgstr "Page"
+
+#: comments.php:54 comments.php:64 inc/seo-tdk.php:7
+msgid "页"
+msgstr "Page"
+
+#: comments.php:78
+msgid "我要提问"
+msgstr "Ask questions"
+
+#: comments.php:89 comments.php:119 comments.php:150 comments.php:177
+msgid "回复问题"
+msgstr "Reply"
+
+#: comments.php:92 comments.php:122 comments.php:153 show/show-comments.php:7
+msgid "给我留言"
+msgstr "Message"
+
+#: comments.php:94 comments.php:124 comments.php:155 comments.php:179
+#: inc/shortcode/toolbar/sc-replyread.php:24 single-sites.php:140
+#: single-video.php:34 template/content-video.php:61
+msgid "发表评论"
+msgstr "Comment"
+
+#: comments.php:100 comments.php:274 comments.php:276
+#: inc/shortcode/toolbar/sc-regprotect.php:17
+#: inc/shortcode/toolbar/sc-secret.php:40
+#: inc/shortcode/toolbar/sc-wechat.php:48
+msgid "提交"
+msgstr "Submit"
+
+#: comments.php:127
+msgid "匿名网友"
+msgstr "Anonymous"
+
+#: comments.php:158 comments.php:181
+msgid "修改资料"
+msgstr "Update Profile"
+
+#: comments.php:159
+msgid "退出登录"
+msgstr "Log out"
+
+#: comments.php:189 inc/my-data.php:298
+msgid "申请头像"
+msgstr "Gravatar"
+
+#: comments.php:199 inc/cat-img.php:208 inc/inc.php:807 inc/inc.php:1462
+msgid "图片"
+msgstr "Picture"
+
+#: comments.php:200
+msgid "表情"
+msgstr "Emoji"
+
+#: comments.php:201
+msgid "代码高亮"
+msgstr "Code"
+
+#: comments.php:207
+msgid "图片地址"
+msgstr "Image address"
+
+#: comments.php:208 inc/search-captcha.php:56 inc/show-password.php:61
+msgid "确定"
+msgstr "Decide"
+
+#: comments.php:220 inc/my-data.php:181
+msgid "昵称"
+msgstr "Name"
+
+#: comments.php:226 inc/contact-form.php:140 inc/login.php:94
+msgid "邮箱"
+msgstr "Email"
+
+#: comments.php:233 single-sites.php:122
+msgid "网址"
+msgstr "Website"
+
+#: comments.php:278 pages/template-go.php:33
+msgid "取消"
+msgstr "Cancel"
+
+#: comments.php:294
+msgid "评论已关闭！"
+msgstr "Comments are closed！"
+
+#: footer.php:71
+msgid "文章复制成功"
+msgstr "Copy successful"
+
+#: grid/grid-cat-new.php:7 inc/down-meta.php:123 template/placard.php:34
+msgid "最近更新"
+msgstr "Recent"
+
+#: image.php:16
+msgid "上传于"
+msgstr "uploaded on"
+
+#: image.php:18 inc/widgets/widget-attachment.php:79
+msgid "分辨率"
+msgstr "Resolution"
+
+#: image.php:24
+msgctxt ""
+msgid "Full size"
+msgstr "Full size"
+
+#: image.php:32 inc/widgets/widget-attachment.php:82
+msgid "大小"
+msgstr "Size"
+
+#: image.php:38
+msgid "未知"
+msgstr "none"
+
+#: image.php:56
+msgid "附件来自："
+msgstr "Attachment from："
+
+#: inc/add-link.php:24
+msgid "请填写网站名称，不超过30字！"
+msgstr "Please enter website name, up to 30 characters！"
+
+#: inc/add-link.php:28
+msgid "请正确填写网站链接！"
+msgstr "Please enter a valid website URL！"
+
+#: inc/add-link.php:32
+msgid "请填写QQ号，方便联系！"
+msgstr "Please provide your QQ number for contact！"
+
+#: inc/add-link.php:34
+msgid "QQ号格式不正确！"
+msgstr "The format of the QQ number is incorrect！"
+
+#: inc/add-link.php:38
+msgid "请填写网站描述，不超过100字！"
+msgstr "Please enter website description, up to 100 characters!"
+
+#: inc/add-link.php:44
+msgid "网站名称已经存在，请勿重复申请！"
+msgstr "Website name already exists. Please do not reapply."
+
+#: inc/add-link.php:49
+msgid "网站链接已经存在，请勿重复申请！"
+msgstr "Website link already exists. Please do not reapply."
+
+#: inc/ajax-archives.php:31 inc/widgets/widget-timing-post.php:54
+msgid "日"
+msgstr "Day"
+
+#: inc/be-audio.php:60
+msgctxt "taxonomy general name"
+msgid "音频分类"
+msgstr "音频分类"
+
+#: inc/be-audio.php:61
+msgctxt "taxonomy singular name"
+msgid "音频分类"
+msgstr "音频分类"
+
+#: inc/be-audio.php:62
+msgid "搜索分类"
+msgstr "搜索分类"
+
+#: inc/be-audio.php:63
+msgid "全部分类"
+msgstr "All Categories"
+
+#: inc/be-audio.php:64
+msgid "父级分类"
+msgstr "父级分类"
+
+#: inc/be-audio.php:65
+msgid "父级:"
+msgstr "父级:"
+
+#: inc/be-audio.php:66
+msgid "编辑分类"
+msgstr "编辑分类"
+
+#: inc/be-audio.php:67
+msgid "更新分类"
+msgstr "更新分类"
+
+#: inc/be-audio.php:68
+msgid "新增分类"
+msgstr "新增分类"
+
+#: inc/be-audio.php:69
+msgid "分类名称"
+msgstr "新增分类"
+
+#: inc/be-audio.php:70
+msgid "音频分类"
+msgstr "音频分类"
+
+#: inc/be-audio.php:71
+msgid "查看音频分类"
+msgstr "查看音频分类"
+
+#: inc/be-audio.php:72
+msgid "热门音频分类"
+msgstr "热门音频分类"
+
+#: inc/be-audio.php:86
+msgctxt "taxonomy slug"
+msgid "音频分类"
+msgstr "音频分类"
+
+#: inc/be-audio.php:87
+msgid "用于音频分类"
+msgstr "用于音频分类"
+
+#: inc/be-audio.php:182
+#, php-format
+msgid "播放 %s"
+msgstr "Play %s"
+
+#: inc/be-audio.php:184
+#, php-format
+msgid "暂停 %s"
+msgstr "Pause %s"
+
+#: inc/be-audio.php:185
+msgid "上一曲"
+msgstr "Previous track"
+
+#: inc/be-audio.php:186
+msgid "下一曲"
+msgstr "Next track"
+
+#: inc/be-audio.php:187
+msgid "切换列表循环播放"
+msgstr "Toggle track listing repeat"
+
+#: inc/be-audio.php:188 inc/be-audio.php:850
+msgid "单曲循环"
+msgstr "单曲循环"
+
+#: inc/be-audio.php:189
+msgid "显示隐藏列表"
+msgstr "Toggle track listing visibility"
+
+#: inc/be-audio.php:190
+msgid "增大音量"
+msgstr "Volume Up"
+
+#: inc/be-audio.php:191
+msgid "减小音量"
+msgstr "Volume Down"
+
+#: inc/be-audio.php:192
+msgid "随机播放"
+msgstr "Shuffle"
+
+#: inc/be-audio.php:203
+msgid "删除所有的音频，但并不会删除音频文件"
+msgstr "删除所有的音频，但并不会删除音频文件"
+
+#: inc/be-audio.php:204
+msgid "选择或上传音频"
+msgstr "选择或上传音频"
+
+#: inc/be-audio.php:205
+msgid "选择封面"
+msgstr "选择封面"
+
+#: inc/be-audio.php:234
+msgctxt "post type general name"
+msgid "音频"
+msgstr "音频"
+
+#: inc/be-audio.php:235 inc/be-audio.php:251
+msgctxt "post type singular name"
+msgid "音频"
+msgstr "音频"
+
+#: inc/be-audio.php:236
+msgctxt "admin menu"
+msgid "音频"
+msgstr "音频"
+
+#: inc/be-audio.php:237
+msgctxt "admin menu"
+msgid "所有音频"
+msgstr "所有音频"
+
+#: inc/be-audio.php:238
+msgctxt "add new on admin bar"
+msgid "音频"
+msgstr "音频"
+
+#: inc/be-audio.php:239 inc/be-audio.php:240 inc/be-audio.php:277
+msgid "添加音频"
+msgstr "添加音频"
+
+#: inc/be-audio.php:241
+msgid "编辑音频"
+msgstr "编辑音频"
+
+#: inc/be-audio.php:242
+msgid "新建音频"
+msgstr "新建音频"
+
+#: inc/be-audio.php:243
+msgid "查看音频"
+msgstr "查看音频"
+
+#: inc/be-audio.php:244
+msgid "搜索音频"
+msgstr "搜索音频"
+
+#: inc/be-audio.php:245
+msgid "没有找到音频"
+msgstr "没有找到音频"
+
+#: inc/be-audio.php:246
+msgid "回收站里没有找到音频"
+msgstr "回收站里没有找到音频"
+
+#: inc/be-audio.php:280
+msgid "设置"
+msgstr "设置"
+
+#: inc/be-audio.php:281
+msgid "短代码"
+msgstr "短代码"
+
+#: inc/be-audio.php:347
+msgid "切换单曲可见性"
+msgstr "切换单曲可见性"
+
+#: inc/be-audio.php:358
+msgid "移除封面"
+msgstr "移除封面"
+
+#: inc/be-audio.php:375
+msgid "上传封面"
+msgstr "上传封面"
+
+#: inc/be-audio.php:393 inc/be-audio.php:400 inc/frontend-publish.php:201
+#: inc/user-center.php:264 inc/widgets/widget-audio.php:64
+msgid "标题"
+msgstr "Title"
+
+#: inc/be-audio.php:408 inc/be-audio.php:415 inc/be-audio.php:788
+msgid "艺术家"
+msgstr "艺术家"
+
+#: inc/be-audio.php:428 inc/be-audio.php:446
+msgid "上传或输入音频链接"
+msgstr "上传或输入音频链接"
+
+#: inc/be-audio.php:450
+msgid "上传"
+msgstr "上传"
+
+#: inc/be-audio.php:461 inc/be-audio.php:468
+msgid "封面图片"
+msgstr "封面图片"
+
+#: inc/be-audio.php:476 inc/comments-template.php:107
+msgid "删除"
+msgstr "Delete"
+
+#: inc/be-audio.php:490
+msgid "添加"
+msgstr "添加"
+
+#: inc/be-audio.php:496
+msgid "删除全部"
+msgstr "删除全部"
+
+#: inc/be-audio.php:502 inc/shortcode/toolbar/sc-more.php:17
+msgid "展开"
+msgstr "Show"
+
+#: inc/be-audio.php:505
+msgid "折叠"
+msgstr "折叠"
+
+#: inc/be-audio.php:539
+msgid "播放器设置"
+msgstr "播放器设置"
+
+#: inc/be-audio.php:544
+msgid "选择颜色"
+msgstr "选择颜色"
+
+#: inc/be-audio.php:568
+msgid "显示模式"
+msgstr "显示模式"
+
+#: inc/be-audio.php:591
+msgid "最大宽度"
+msgstr "最大宽度"
+
+#: inc/be-audio.php:594
+msgid "自适应，留空即可"
+msgstr "自适应，留空即可"
+
+#: inc/be-audio.php:599
+msgid "初始音量"
+msgstr "初始音量"
+
+#: inc/be-audio.php:610
+msgid "0-100"
+msgstr "0-100"
+
+#: inc/be-audio.php:632
+msgid "随机按钮"
+msgstr "随机按钮"
+
+#: inc/be-audio.php:636
+msgid "不显示"
+msgstr "不显示"
+
+#: inc/be-audio.php:637
+msgid "显示"
+msgstr "显示"
+
+#: inc/be-audio.php:638
+msgid "显示并启用"
+msgstr "显示并启用"
+
+#: inc/be-audio.php:652
+msgid "默认显示列表"
+msgstr "默认显示列表"
+
+#: inc/be-audio.php:666
+msgid "限制列表高度"
+msgstr "限制列表高度"
+
+#: inc/be-audio.php:672 inc/be-audio.php:682
+msgid "列表高度"
+msgstr "列表高度"
+
+#: inc/be-audio.php:698
+msgid "列表按钮"
+msgstr "列表按钮"
+
+#: inc/be-audio.php:712
+msgid "底部模式自动隐藏"
+msgstr "底部模式自动隐藏"
+
+#: inc/be-audio.php:726
+msgid "倒序排列"
+msgstr "倒序排列"
+
+#: inc/be-audio.php:740
+msgid "编辑按钮"
+msgstr "编辑按钮"
+
+#: inc/be-audio.php:760
+msgid "显示封面"
+msgstr "显示封面"
+
+#: inc/be-audio.php:774
+msgid "当前封面"
+msgstr "当前封面"
+
+#: inc/be-audio.php:802
+msgid "序号"
+msgstr "序号"
+
+#: inc/be-audio.php:810
+msgid "循环设置"
+msgstr "循环设置"
+
+#: inc/be-audio.php:822
+msgid "列表循环"
+msgstr "列表循环"
+
+#: inc/be-audio.php:836
+msgid "循环按钮"
+msgstr "循环按钮"
+
+#: inc/be-audio.php:864
+msgid "单曲停止"
+msgstr "单曲停止"
+
+#: inc/be-audio.php:878
+msgid "记住上次播放位置"
+msgstr "记住上次播放位置"
+
+#: inc/be-audio.php:894
+msgid "复制短代码，添加到文章中"
+msgstr "复制短代码，添加到文章中"
+
+#: inc/be-audio.php:914
+msgid "完整"
+msgstr "完整"
+
+#: inc/be-audio.php:920
+msgid "简易"
+msgstr "简易"
+
+#: inc/be-audio.php:936
+msgid "页脚"
+msgstr "页脚"
+
+#: inc/be-audio.php:945
+msgid "全站页脚"
+msgstr "全站页脚"
+
+#: inc/be-audio.php:961
+msgid "简约"
+msgstr "简约"
+
+#: inc/be-audio.php:967
+msgid "白色"
+msgstr "白色"
+
+#: inc/be-audio.php:972
+msgid "黑色"
+msgstr "黑色"
+
+#: inc/be-audio.php:978
+msgid "灰色"
+msgstr "灰色"
+
+#: inc/be-audio.php:1196
+msgid "ID 与播放列表不匹配"
+msgstr "ID 与播放列表不匹配"
+
+#: inc/be-cover.php:61
+msgid "未添加分类ID"
+msgstr "No category ID is added"
+
+#: inc/be-links.php:121
+msgid "更多链接"
+msgstr "More links"
+
+#: inc/be-links.php:127 inc/be-links.php:146
+msgid "友情链接"
+msgstr "Blogroll"
+
+#: inc/be-special.php:20 inc/be-special.php:90 inc/be-special.php:132
+#: inc/be-special.php:209 inc/widgets/widget-special-img.php:58
+#: inc/widgets/widget-special-list.php:74
+msgid "专题"
+msgstr "Topic"
+
+#: inc/be-special.php:30 inc/be-special.php:141
+#: inc/widgets/widget-special-list.php:124 pages/template-all-special.php:32
+#: pages/template-special.php:77 pages/template-special.php:114
+msgid "未添加文章"
+msgstr "None"
+
+#: inc/be-template.php:1434 inc/comments-template.php:173 single-beqa.php:37
+msgid "回复"
+msgstr "Reply"
+
+#: inc/be-template.php:1434
+msgid "0"
+msgstr "0"
+
+#: inc/breadcrumb.php:8 inc/breadcrumb.php:322 inc/breadcrumb.php:358
+#: inc/down-core.php:79
+msgid "首页"
+msgstr "Home"
+
+#: inc/breadcrumb.php:10
+msgid "现在位置"
+msgstr "Location"
+
+#: inc/breadcrumb.php:184
+msgid "筛选"
+msgstr "Filter"
+
+#: inc/breadcrumb.php:213 inc/breadcrumb.php:215 inc/breadcrumb.php:218
+#: inc/seo-tdk.php:26
+msgid "的主页"
+msgstr "'s Homepage"
+
+#: inc/breadcrumb.php:260 inc/filter-core.php:6 inc/filter.php:15
+#: inc/frontend-publish.php:211 inc/user-center.php:267
+#: inc/widgets/widget-site-profile.php:48 pages/template-archives.php:88
+#: shop/setup-vip.php:218 shop/setup-vip.php:647 single-video.php:30
+#: template/content-video.php:57
+msgid "分类"
+msgstr "Categories"
+
+#: inc/breadcrumb.php:266 inc/breadcrumb.php:268 inc/breadcrumb.php:322
+msgid "搜索"
+msgstr "Search"
+
+#: inc/breadcrumb.php:266 inc/seo-tdk.php:134
+msgid "结果"
+msgstr "Results"
+
+#: inc/breadcrumb.php:273
+msgid "404"
+msgstr "404"
+
+#: inc/breadcrumb.php:279
+#, php-format
+msgid "第 %s 页"
+msgstr "Page%s"
+
+#: inc/captcha.php:36
+msgid "拖动滑块以完成验证"
+msgstr "Slide puzzle verification."
+
+#: inc/captcha.php:37
+msgid "向右滑动完成拼图"
+msgstr "Slide puzzle verification."
+
+#: inc/captcha.php:38
+msgid "请再试一次"
+msgstr "Lease try again"
+
+#: inc/captcha.php:82
+msgid "验证失败，请重试"
+msgstr "Verification failed, please try again."
+
+#: inc/cat-cover.php:211 inc/cat-img.php:218
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: inc/class-assets.php:42
+msgid "摘要"
+msgstr "Excerpt"
+
+#: inc/comment-ajax.php:31 inc/comment-ajax.php:34
+msgid "无效的评论"
+msgstr "Invalid comment"
+
+#: inc/comment-ajax.php:37 inc/inc.php:149 inc/post-meta.php:40
+#: inc/post-meta.php:144 inc/post-meta.php:215 inc/post-meta.php:264
+#: inc/post-meta.php:318 inc/post-meta.php:386 single-sites.php:138
+#: single-video.php:32 template/cat-ajax-code.php:690
+#: template/content-video.php:59 template/cp-ajax-code.php:291
+msgid "密码保护"
+msgstr "Password"
+
+#: inc/comment-ajax.php:69
+msgid "您必须登录后才能发表评论"
+msgstr "Login required to comment."
+
+#: inc/comment-ajax.php:77 inc/contact-form.php:158
+msgid "error"
+msgstr "error"
+
+#: inc/comment-ajax.php:83
+msgid "必须填写昵称。"
+msgstr "Nickname required."
+
+#: inc/comment-ajax.php:88
+msgid "必须填写昵称及邮件。"
+msgstr "Nickname and email required."
+
+#: inc/comment-ajax.php:90
+msgid "请输入一个有效的电子邮件地址。"
+msgstr "Please enter a valid email address."
+
+#: inc/comment-ajax.php:96
+msgid "请输入评论内容。"
+msgstr "Please type your comment text."
+
+#: inc/comment-ajax.php:102 inc/comment-ajax.php:106
+msgid "请填写"
+msgstr "Please provide "
+
+#: inc/comment-ajax.php:122
+msgid "貌似您已发表过重复的评论!"
+msgstr "Repetitive comments!"
+
+#: inc/comment-ajax.php:130
+msgid "您发表评论也太快了!"
+msgstr "Comment is too fast!"
+
+#: inc/comment-ajax.php:198 inc/comments-template.php:193
+msgid "您的评论正在等待审核！"
+msgstr "Your comment is awaiting moderation."
+
+#: inc/comments-template.php:81
+msgid "管理员"
+msgstr "Administrator"
+
+#: inc/comments-template.php:85 inc/section.php:707
+msgid "作者"
+msgstr "Author"
+
+#: inc/comments-template.php:102 inc/frontend-publish.php:152
+#: inc/publish-profile.php:164 pages/template-roles.php:111
+#: taxonomy-notice.php:31
+msgid "编辑"
+msgstr "Edit"
+
+#: inc/comments-template.php:165
+msgid "登录回复"
+msgstr "Log in to Reply"
+
+#: inc/contact-form.php:42
+msgid "Address"
+msgstr "Address"
+
+#: inc/contact-form.php:44
+msgid "带"
+msgstr "Have"
+
+#: inc/contact-form.php:44
+msgid "号项必填"
+msgstr "field required"
+
+#: inc/contact-form.php:74
+msgid "发送邮件"
+msgstr "Send E-mail"
+
+#: inc/contact-form.php:82 inc/contact-form.php:102
+msgid "无效请求"
+msgstr "Invalid request."
+
+#: inc/contact-form.php:88
+msgid "请正确填写所有必填项。"
+msgstr "Please fill in all required fields correctly."
+
+#: inc/contact-form.php:91
+msgid "请输入一个有效的电话号码。"
+msgstr "Please enter a valid phone number."
+
+#: inc/contact-form.php:116
+msgid "来自网站的邮件"
+msgstr "Mail from website"
+
+#: inc/contact-form.php:139
+msgid "姓名"
+msgstr "Name"
+
+#: inc/contact-form.php:142 inc/inc.php:1467 template/header-sub.php:128
+msgid "电话"
+msgstr "Telephone"
+
+#: inc/contact-form.php:145 inc/inc.php:1464 template/header-sub.php:122
+msgid "微信"
+msgstr "WeChat"
+
+#: inc/contact-form.php:147
+msgid "内容"
+msgstr "Content"
+
+#: inc/contact-form.php:153
+msgid "邮件已发送！"
+msgstr "Email sent!"
+
+#: inc/contact-form.php:155
+msgid "无法发送，请稍后再试！"
+msgstr "Please fill in all required fields correctly."
+
+#: inc/custom-register.php:22
+#, php-format
+msgid "New user registration on your site %s:"
+msgstr "New user registration on your site %s:"
+
+#: inc/custom-register.php:23 inc/custom-register.php:32 inc/inc.php:2719
+#, php-format
+msgid "Username: %s"
+msgstr "Username: %s"
+
+#: inc/custom-register.php:24
+#, php-format
+msgid "E-mail: %s"
+msgstr "E-mail: %s"
+
+#: inc/custom-register.php:26
+#, php-format
+msgid "[%s] New User Registration"
+msgstr "[%s] New User Registration"
+
+#: inc/custom-register.php:33
+#, php-format
+msgid "Password: %s"
+msgstr "Password: %s"
+
+#: inc/custom-register.php:37
+#, php-format
+msgid "[%s] Your username and password"
+msgstr "[%s] Your username and password"
+
+#: inc/custom-register.php:46 inc/login.php:144 inc/show-password.php:53
+msgid "密码"
+msgstr "Password"
+
+#: inc/custom-register.php:50
+msgid "再次输入密码"
+msgstr "Re-enter password"
+
+#: inc/custom-register.php:50 inc/my-data.php:222
+msgid "重复密码"
+msgstr "Repeat password"
+
+#: inc/custom-register.php:55
+msgid "邮件验证码"
+msgstr "Captcha"
+
+#: inc/custom-register.php:56
+msgid "获取邮件验证码"
+msgstr "Get captcha"
+
+#: inc/custom-register.php:74
+msgid "请勿恶意注册"
+msgstr "Do not register maliciously"
+
+#: inc/custom-register.php:81
+msgid "休息一会"
+msgstr "Take a Break"
+
+#: inc/custom-register.php:85
+msgid "邮件验证码错误"
+msgstr "Captcha error"
+
+#: inc/custom-register.php:93 inc/shortcode/toolbar/sc-secret.php:13
+msgid "密码不能为空"
+msgstr "The password cannot be empty"
+
+#: inc/custom-register.php:95
+msgid "密码长度至少6位"
+msgstr "Least 6 characters"
+
+#: inc/custom-register.php:97
+msgid "请再次输入密码"
+msgstr "Please enter your password again"
+
+#: inc/custom-register.php:99
+msgid "两次输入的密码必须一致"
+msgstr "The two entries must be the same"
+
+#: inc/custom-register.php:137 inc/login-ajax.php:136
+msgid "注册成功！"
+msgstr "registration success!"
+
+#: inc/down-core.php:11 inc/down-meta.php:9
+msgid "资源名称"
+msgstr "Resource Name"
+
+#: inc/down-core.php:17 inc/down-meta.php:15 single-download.php:55
+#: single-vip.php:44 template/content-quote.php:61
+msgid "应用平台"
+msgstr "platform"
+
+#: inc/down-core.php:23 inc/down-meta.php:21 single-download.php:62
+#: single-vip.php:51 template/content-quote.php:68
+msgid "资源版本"
+msgstr "Version"
+
+#: inc/down-core.php:29 inc/down-meta.php:27
+msgid "资源大小"
+msgstr "resource size"
+
+#: inc/down-core.php:82 inc/down-file.php:8 inc/down-meta.php:108
+#: single-vip.php:84
+msgid "文件下载"
+msgstr "Dowload"
+
+#: inc/down-core.php:104
+msgid "文件信息"
+msgstr "Information"
+
+#: inc/down-core.php:109
+msgid "下载次数"
+msgstr "Downloads"
+
+#: inc/down-core.php:116 inc/down-core.php:128 inc/down-core.php:132
+#: inc/down-meta.php:101 inc/down-meta.php:103 inc/shortcode/toolbar.php:254
+#: single-download.php:81
+msgid "下载地址"
+msgstr "Download"
+
+#: inc/down-core.php:119 inc/down-core.php:121 inc/down-core.php:135
+#: inc/down-core.php:137
+msgid "网盘下载"
+msgstr "Network disk"
+
+#: inc/down-core.php:123 inc/down-core.php:139
+msgid "官方下载"
+msgstr "Official"
+
+#: inc/down-core.php:124 inc/down-core.php:140
+msgid "本站下载"
+msgstr "This site"
+
+#: inc/down-core.php:128
+msgid "登录可见"
+msgstr "Login visible"
+
+#: inc/down-core.php:146 inc/down-meta.php:72
+msgid "解压密码"
+msgstr "Passwords"
+
+#: inc/down-core.php:148 inc/down-meta.php:68
+msgid "网盘密码"
+msgstr "Network disk password"
+
+#: inc/down-core.php:154
+msgid "演示图片"
+msgstr "Demo"
+
+#: inc/down-core.php:178 inc/favorite.php:46
+msgid "出错了"
+msgstr "Error"
+
+#: inc/down-meta.php:54
+msgid "查看演示"
+msgstr "Demo"
+
+#: inc/down-meta.php:61 inc/down-meta.php:63
+msgid "文件密码"
+msgstr "File password"
+
+#: inc/down-meta.php:76
+msgid "提取密码"
+msgstr "Retrieve password"
+
+#: inc/down-meta.php:115
+msgid "下载信息"
+msgstr "Download"
+
+#: inc/edit-roles.php:33
+#, php-format
+msgid "没有这个 %s 角色"
+msgstr "没有这个 %s 角色"
+
+#: inc/edit-roles.php:181
+msgid "Cheatin&#8217; uh?"
+msgstr "Cheatin&#8217; uh?"
+
+#: inc/favorite.php:60 inc/favorite.php:109 inc/favorite.php:123
+msgid "取消收藏"
+msgstr "Unfavorite"
+
+#: inc/favorite.php:63 inc/favorite.php:111
+msgid "收藏"
+msgstr "Favorites"
+
+#: inc/favorite.php:130
+msgid "暂无收藏"
+msgstr "No collection"
+
+#: inc/favorite.php:174
+msgid "登录收藏"
+msgstr "Favorites"
+
+#: inc/filter-core.php:16 inc/filter-core.php:18 inc/filter-core.php:48
+#: inc/filter-core.php:50 inc/filter-core.php:82 inc/filter-core.php:84
+#: inc/filter-core.php:116 inc/filter-core.php:118 inc/filter-core.php:150
+#: inc/filter-core.php:152 inc/filter-core.php:184 inc/filter-core.php:186
+#: inc/filter-core.php:218 inc/filter-core.php:220 inc/filter-core.php:252
+#: inc/filter-core.php:254 inc/filter-core.php:286 inc/filter-core.php:288
+#: inc/filter-core.php:320 inc/filter-core.php:322 inc/filter-core.php:354
+#: inc/filter-core.php:356 inc/filter.php:24 inc/filter.php:26
+#: inc/filter.php:54 inc/filter.php:56 inc/filter.php:87 inc/filter.php:89
+#: inc/filter.php:120 inc/filter.php:122 inc/filter.php:153 inc/filter.php:155
+#: inc/filter.php:186 inc/filter.php:188 inc/filter.php:219 inc/filter.php:221
+#: inc/filter.php:252 inc/filter.php:254 inc/filter.php:285 inc/filter.php:287
+#: inc/filter.php:318 inc/filter.php:320 inc/filter.php:351 inc/filter.php:353
+msgid "不限"
+msgstr "Any"
+
+#: inc/follow-author.php:6
+msgid "注册登录后关注"
+msgstr "Sign in to follow"
+
+#: inc/follow-author.php:12
+msgid "不能关注自己"
+msgstr "Cannot focus on oneself"
+
+#: inc/follow-author.php:25
+msgid "已取消关注"
+msgstr "unfollowed"
+
+#: inc/follow-author.php:31 inc/follow-author.php:62 inc/follow-fans.php:10
+msgid "已关注"
+msgstr "Followed"
+
+#: inc/follow-author.php:61 inc/follow-fans.php:9 inc/follow-fans.php:40
+#: inc/follow-fans.php:97 template/header-sub.php:110
+msgid "关注"
+msgstr "Follow"
+
+#: inc/follow-fans.php:14 pages/template-user.php:70
+msgid "我的关注"
+msgstr "My focus"
+
+#: inc/follow-fans.php:39 inc/follow-fans.php:96 inc/section.php:119
+#: inc/widgets/widget-about-author.php:330 template/header-sub.php:111
+msgid "粉丝"
+msgstr "Fans"
+
+#: inc/follow-fans.php:49 inc/follow-fans.php:117 inc/section.php:117
+#: inc/user-center.php:191 inc/widgets/widget-about-author.php:309
+#: inc/widgets/widget-about.php:129 inc/widgets/widget-site-profile.php:47
+#: pages/template-archives.php:99 pages/template-roles.php:124
+#: pages/template-tags.php:23 template/header-sub.php:103
+msgid "文章"
+msgstr "Article"
+
+#: inc/follow-fans.php:67
+msgid "互关"
+msgstr "Follow"
+
+#: inc/follow-fans.php:68
+msgid "已互关"
+msgstr "Followed"
+
+#: inc/follow-fans.php:71 pages/template-user.php:74
+msgid "我的粉丝"
+msgstr "My fans"
+
+#: inc/frontend-publish.php:9
+msgid "必须填写标题"
+msgstr "Title is required"
+
+#: inc/frontend-publish.php:11 inc/publish-profile.php:12
+msgid "您有未保存的更改，继续吗?"
+msgstr "You have unsaved changes. Continue?"
+
+#: inc/frontend-publish.php:12 inc/publish-profile.php:13
+msgid "您确定吗?"
+msgstr "Are you sure?"
+
+#: inc/frontend-publish.php:68 inc/frontend-publish.php:95
+#: inc/publish-profile.php:61 inc/publish-profile.php:88
+msgid "未通过安全检查"
+msgstr "Did not pass security check"
+
+#: inc/frontend-publish.php:71 inc/publish-profile.php:64
+msgid "无删除权限"
+msgstr "No delete permissions"
+
+#: inc/frontend-publish.php:75 inc/publish-profile.php:68
+msgid "未删除"
+msgstr "Not deleted"
+
+#: inc/frontend-publish.php:78 inc/publish-profile.php:71
+msgid "已成功删除!"
+msgstr "Successfully deleted!"
+
+#: inc/frontend-publish.php:101 inc/frontend-publish.php:181
+#: inc/publish-profile.php:94 inc/publish-profile.php:192
+msgid "无编辑权限"
+msgstr "No editing permissions"
+
+#: inc/frontend-publish.php:124 inc/publish-profile.php:127
+msgid "published"
+msgstr "published"
+
+#: inc/frontend-publish.php:127 inc/publish-profile.php:130
+msgid "submitted"
+msgstr "submitted"
+
+#: inc/frontend-publish.php:133 inc/publish-profile.php:136
+msgid "updated"
+msgstr "updated"
+
+#: inc/frontend-publish.php:149 inc/publish-profile.php:161
+msgid "提交成功!"
+msgstr "Submitted successfully!"
+
+#: inc/frontend-publish.php:154 inc/publish-profile.php:166
+msgid "关闭"
+msgstr "Close"
+
+#: inc/frontend-publish.php:155 inc/publish-profile.php:167
+#: pages/template-go.php:29
+msgid "继续"
+msgstr "Continue"
+
+#: inc/frontend-publish.php:234 inc/widgets/widget-site-profile.php:49
+#: pages/template-archives.php:92
+msgid "标签"
+msgstr "Tags"
+
+#: inc/frontend-publish.php:244
+msgid "特色图像"
+msgstr "Featured image"
+
+#: inc/frontend-publish.php:263
+msgid "注册登录后方可发表文章"
+msgstr "Post after login"
+
+#: inc/frontend-publish.php:266 inc/login.php:266 inc/login.php:371
+#: inc/publish-profile.php:288
+msgid "立即登录"
+msgstr "Login"
+
+#: inc/gravatar.php:36
+msgid "自定义"
+msgstr "Custom"
+
+#: inc/inc.php:152 inc/post-meta.php:43 inc/post-meta.php:147
+#: inc/post-meta.php:218 inc/post-meta.php:267 inc/post-meta.php:321
+#: inc/post-meta.php:349 inc/post-meta.php:389 inc/section.php:717
+#: inc/user-center.php:192 inc/user-center.php:268
+#: inc/widgets/widget-about-author.php:316 pages/template-roles.php:125
+#: single-sites.php:138 single-sites.php:140 single-video.php:32
+#: single-video.php:34 template/cat-ajax-code.php:694
+#: template/content-video.php:59 template/content-video.php:61
+#: template/cp-ajax-code.php:295 template/header-sub.php:104
+msgid "评论"
+msgstr "Comments"
+
+#: inc/inc.php:185
+#, php-format
+msgid "%d 答案"
+msgid_plural "%d 答案"
+msgstr[0] "%d 答案"
+msgstr[1] "%d 答案"
+
+#: inc/inc.php:189
+#, php-format
+msgid "%d 投票"
+msgid_plural "%d 投票"
+msgstr[0] "%d 投票"
+msgstr[1] "%d 投票"
+
+#: inc/inc.php:393
+#, php-format
+msgid "字数 %s"
+msgstr "Characters %s"
+
+#: inc/inc.php:397
+msgid "阅读"
+msgstr "Views"
+
+#: inc/inc.php:397
+msgid "分"
+msgstr "min"
+
+#: inc/inc.php:397
+msgid "秒"
+msgstr "s"
+
+#: inc/inc.php:1084
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/inc.php:1304
+msgid "请填写您的邮箱"
+msgstr "Please enter your email address"
+
+#: inc/inc.php:1308
+msgid "您的邮箱格式不对"
+msgstr "The email format is incorrect"
+
+#: inc/inc.php:1465 inc/my-data.php:244
+msgid "微信二维码"
+msgstr "Wechat QR"
+
+#: inc/inc.php:1466
+msgid "微博"
+msgstr "Weibo"
+
+#: inc/inc.php:1468 inc/publish-profile.php:242
+msgid "备注"
+msgstr "Remark"
+
+#: inc/inc.php:1469
+msgid "英文备注"
+msgstr "英文备注"
+
+#: inc/inc.php:1565
+#, php-format
+msgid "查看与 %s 相关的文章"
+msgstr "Read  %s the article"
+
+#: inc/inc.php:1674
+msgid "提示！"
+msgstr "point!"
+
+#: inc/inc.php:1675
+msgid "本文登录后方可查看！"
+msgstr "Login to view!"
+
+#: inc/inc.php:1677 inc/login.php:154 inc/login.php:156 inc/login.php:313
+#: inc/login.php:331 inc/login.php:414 inc/login.php:433 inc/menu-main.php:128
+#: inc/menu-main.php:130 inc/shortcode/toolbar/sc-loginread.php:26
+#: inc/shortcode/toolbar/sc-loginread.php:27
+#: inc/shortcode/toolbar/sc-rolevisible.php:32
+#: inc/shortcode/toolbar/sc-rolevisible.php:34 inc/user-center.php:100
+#: inc/user-center.php:108 inc/widgets/widget-login.php:58
+#: inc/widgets/widget-login.php:60
+msgid "登录"
+msgstr "Login"
+
+#: inc/inc.php:1843
+msgid "The WordPress REST API has been disabled."
+msgstr "The WordPress REST API has been disabled."
+
+#: inc/inc.php:2014
+msgid "更新日期"
+msgstr "Date"
+
+#: inc/inc.php:2041
+msgid "Y年m月d日"
+msgstr "M j, Y"
+
+#: inc/inc.php:2191
+msgid "最后回复"
+msgstr "Final"
+
+#: inc/inc.php:2720
+msgid "To set your password, visit the following address:"
+msgstr "To set your password, visit the following address:"
+
+#: inc/inc.php:2972
+msgid "Contributor"
+msgstr "Contributor"
+
+#: inc/inc.php:3299
+msgid "排序"
+msgstr "Sorting"
+
+#: inc/inc.php:3301
+msgid "按发表日期排序"
+msgstr "The date sorting"
+
+#: inc/inc.php:3301 inc/user-center.php:265 single-video.php:29
+#: template/content-video.php:56
+msgid "日期"
+msgstr "Date"
+
+#: inc/inc.php:3305
+msgid "按最后更新日期排序"
+msgstr "Update date sorting"
+
+#: inc/inc.php:3309
+msgid "按评论数排序"
+msgstr "Comment on sorting"
+
+#: inc/inc.php:3309
+msgid "热评"
+msgstr "Buzz"
+
+#: inc/inc.php:3313
+msgid "按点击量排序"
+msgstr "Sort by hits"
+
+#: inc/inc.php:3313
+msgid "热门"
+msgstr "Hot"
+
+#: inc/inc.php:3317
+msgid "按点赞量排序"
+msgstr "Sort by likes"
+
+#: inc/inc.php:3317 inc/share-poster.php:274
+#: inc/widgets/widget-about-author.php:337 template/header-sub.php:105
+msgid "点赞"
+msgstr "Like"
+
+#: inc/inc.php:3321
+msgid "随机排序"
+msgstr "Random"
+
+#: inc/inc.php:3321
+msgid "随机"
+msgstr "Random"
+
+#: inc/inc.php:3559
+msgid "请完善个人信息，绑定邮箱！"
+msgstr "Please bind email!"
+
+#: inc/inc.php:3560
+msgid "之后可以用邮箱登录"
+msgstr "You can then use your email address to log in."
+
+#: inc/inc.php:3560
+msgid "并且此信息也将不再提示！"
+msgstr "The message no longer prompts!"
+
+#: inc/inc.php:3561
+msgid "现在绑定"
+msgstr "Bind"
+
+#: inc/inc.php:3615
+msgid "No feeds available!"
+msgstr "No feeds available!"
+
+#: inc/invitation-code.php:797
+msgid "邀请码"
+msgstr "Invite code"
+
+#: inc/invitation-code.php:806
+msgid "获取"
+msgstr "Get"
+
+#: inc/invitation-code.php:823
+msgid "请输入邀请码"
+msgstr "Enter a invitation code"
+
+#: inc/invitation-code.php:832
+msgid "错误的邀请码"
+msgstr "Wrong Invitation Code"
+
+#: inc/invitation-code.php:837
+msgid "邀请码不可用"
+msgstr "Invalid Invitation Code"
+
+#: inc/invitation-code.php:842
+msgid "邀请码已超使用次数"
+msgstr "This Invitation Code is over"
+
+#: inc/invitation-code.php:847
+msgid "邀请码已经过期"
+msgstr "This Invitation Code is expired"
+
+#: inc/invitation-code.php:898
+msgid "复制"
+msgstr "Copy"
+
+#: inc/lib/be-today-post.php:54
+msgid "历年同日文章"
+msgstr "On this day in past years"
+
+#: inc/lib/be-views.php:33 inc/section.php:121 inc/user-center.php:266
+#: inc/widgets/widget-about-author.php:323
+#: inc/widgets/widget-site-profile.php:52 pages/template-archives.php:110
+#: template/header-sub.php:107
+msgid "浏览"
+msgstr "Views"
+
+#: inc/lib/be-views.php:45 inc/lib/be-views.php:51
+msgid "观看"
+msgstr "Views"
+
+#: inc/lib/be-views.php:51
+msgid "次"
+msgstr "freq"
+
+#: inc/link-pages-all.php:26
+msgid "分页阅读"
+msgstr "Page reading"
+
+#: inc/link-pages-all.php:27
+msgid "显示全文"
+msgstr "Show full"
+
+#: inc/login-ajax.php:63
+msgid "登录成功，请稍候..."
+msgstr "Login successful, please wait ..."
+
+#: inc/login-ajax.php:138
+msgid "注册成功！请查看您的邮箱"
+msgstr "registration success! Please check your email"
+
+#: inc/login-ajax.php:150
+msgid "注册已关闭"
+msgstr "Registration closed"
+
+#: inc/login-ajax.php:166
+msgid "已经向您发出一封电子邮件"
+msgstr "Has sent you an email"
+
+#: inc/login-ajax.php:172
+msgid "发生未知的错误"
+msgstr "An unknown error occurred"
+
+#: inc/login.php:15 inc/user-center.php:28 inc/user-center.php:37
+msgid "后台管理"
+msgstr "Dashboard"
+
+#: inc/login.php:60 inc/user-center.php:18 inc/user-center.php:32
+#: inc/user-center.php:69 inc/user-center.php:71
+msgid "个人中心"
+msgstr "User profile"
+
+#: inc/login.php:62 inc/user-center.php:73 inc/user-center.php:153
+msgid "安全退出"
+msgstr "Log Out"
+
+#: inc/login.php:91 inc/login.php:136 inc/my-data.php:177
+msgid "用户名"
+msgstr "Username"
+
+#: inc/login.php:102 inc/login.php:120 inc/login.php:320 inc/login.php:422
+#: inc/menu-main.php:133 inc/user-center.php:117
+#: inc/widgets/widget-login.php:63
+msgid "注册"
+msgstr "Register"
+
+#: inc/login.php:108
+msgid "我同意"
+msgstr "Agree"
+
+#: inc/login.php:117
+msgid "必须选择同意"
+msgstr "Must agree"
+
+#: inc/login.php:167
+msgid "记住我的登录信息"
+msgstr "Remember Me"
+
+#: inc/login.php:180
+msgid "输入用户名或邮箱"
+msgstr "Username or Email Address"
+
+#: inc/login.php:187 inc/login.php:189
+msgid "获取新密码"
+msgstr "Get New Password"
+
+#: inc/login.php:194
+msgid "重置密码链接通过邮箱发送给您"
+msgstr "Send registration information by email"
+
+#: inc/login.php:229 inc/login.php:264 inc/login.php:369
+msgid "加入我们"
+msgstr "Register"
+
+#: inc/login.php:235
+msgid "仅开放社交账号注册登录"
+msgstr "Only open social account login"
+
+#: inc/login.php:268 inc/login.php:323 inc/login.php:373 inc/login.php:425
+msgid "找回密码"
+msgstr "Retrieve password"
+
+#: inc/menu-main.php:12 inc/user-center.php:18 inc/user-center.php:21
+#: inc/user-center.php:52
+msgid "您好！"
+msgstr "Howdy!"
+
+#: inc/menu-search.php:9
+msgid "切换搜索"
+msgstr "Toggle"
+
+#: inc/menu-search.php:14 template/search-main.php:21
+msgid "输入关键字"
+msgstr "Enter keywords"
+
+#: inc/menu-search.php:38 template/search-main.php:46
+msgid "百度一下"
+msgstr "Baidu"
+
+#: inc/my-data.php:18
+msgid "错误：密码不一致，请输入正确的重复密码！"
+msgstr "Passwords are inconsistent!"
+
+#: inc/my-data.php:33
+msgid "错误：您输入的电子邮件地址不正确！"
+msgstr "Enter the correct email!"
+
+#: inc/my-data.php:35
+msgid "错误：该电子邮件已被其他用户使用！"
+msgstr "Error: The e-mail has been used by other users!"
+
+#: inc/my-data.php:161
+msgid "我的资料"
+msgstr "Profile"
+
+#: inc/my-data.php:166
+msgid "个人信息已更新！"
+msgstr "Information is updated!"
+
+#: inc/my-data.php:178
+msgid "不可更改"
+msgstr "Cannot be changed"
+
+#: inc/my-data.php:182 inc/my-data.php:208
+msgid "必填"
+msgstr "Required"
+
+#: inc/my-data.php:185
+msgid "名字"
+msgstr "First Name"
+
+#: inc/my-data.php:189
+msgid "公开显示名"
+msgstr "Display name"
+
+#: inc/my-data.php:207
+msgid "邮箱地址"
+msgstr "Email"
+
+#: inc/my-data.php:212
+msgid "输入显示名"
+msgstr "Display name"
+
+#: inc/my-data.php:217
+msgid "新密码"
+msgstr "New Password"
+
+#: inc/my-data.php:227
+msgid "我的图片"
+msgstr "My picture"
+
+#: inc/my-data.php:231
+msgid "我的网站"
+msgstr "Website"
+
+#: inc/my-data.php:236
+msgid "我的QQ"
+msgstr "QQ"
+
+#: inc/my-data.php:240
+msgid "我的微信"
+msgstr "Wechat"
+
+#: inc/my-data.php:249
+msgid "我的电话"
+msgstr "My phone"
+
+#: inc/my-data.php:254
+msgid "备注信息"
+msgstr "Remark"
+
+#: inc/my-data.php:258
+msgid "个人说明"
+msgstr "Biographical Info"
+
+#: inc/my-data.php:264
+msgid "设置头像"
+msgstr "Profile Picture"
+
+#: inc/my-data.php:307
+msgid "更新个人信息"
+msgstr "Update Profile"
+
+#: inc/options/classes/metabox-options.class.php:280
+#: inc/options/fields.php:1298 inc/options/functions.php:41
+msgid "No data available."
+msgstr "No data available."
+
+#: inc/options/classes/metabox-options.class.php:303
+msgid "重置"
+msgstr "重置"
+
+#: inc/options/classes/setup.class.php:521
+#, php-format
+msgid "Please enter %s or more characters"
+msgstr "Please enter %s or more characters"
+
+#: inc/options/classes/setup.class.php:522
+msgid "Searching..."
+msgstr "Searching..."
+
+#: inc/options/classes/setup.class.php:523
+msgid "No results found."
+msgstr "No results found."
+
+#: inc/options/classes/setup.class.php:618
+msgid "Oops! Not allowed."
+msgstr "Oops! Not allowed."
+
+#: inc/options/classes/setup.class.php:686
+#: inc/options/classes/setup.class.php:690
+msgid "Field not found!"
+msgstr "Field not found!"
+
+#: inc/options/fields.php:613
+msgid "On"
+msgstr "On"
+
+#: inc/options/fields.php:614
+msgid "Off"
+msgstr "Off"
+
+#: inc/options/fields.php:951
+msgid "From"
+msgstr "From"
+
+#: inc/options/fields.php:969
+msgid "To"
+msgstr "To"
+
+#: inc/options/fields.php:987
+msgid "Direction"
+msgstr "Direction"
+
+#: inc/options/fields.php:993
+msgid "Gradient Direction"
+msgstr "Gradient Direction"
+
+#: inc/options/fields.php:994
+msgid "&#8659; top to bottom"
+msgstr "&#8659; top to bottom"
+
+#: inc/options/fields.php:995
+msgid "&#8658; left to right"
+msgstr "&#8658; left to right"
+
+#: inc/options/fields.php:996
+msgid "&#8664; corner top to right"
+msgstr "&#8664; corner top to right"
+
+#: inc/options/fields.php:997
+msgid "&#8665; corner top to left"
+msgstr "&#8665; corner top to left"
+
+#: inc/options/fields.php:1040
+msgid "Background Position"
+msgstr "Background Position"
+
+#: inc/options/fields.php:1041
+msgid "Left Top"
+msgstr "Left Top"
+
+#: inc/options/fields.php:1042
+msgid "Left Center"
+msgstr "Left Center"
+
+#: inc/options/fields.php:1043
+msgid "Left Bottom"
+msgstr "Left Bottom"
+
+#: inc/options/fields.php:1044
+msgid "Center Top"
+msgstr "Center Top"
+
+#: inc/options/fields.php:1045
+msgid "Center Center"
+msgstr "Center Center"
+
+#: inc/options/fields.php:1046
+msgid "Center Bottom"
+msgstr "Center Bottom"
+
+#: inc/options/fields.php:1047
+msgid "Right Top"
+msgstr "Right Top"
+
+#: inc/options/fields.php:1048
+msgid "Right Center"
+msgstr "Right Center"
+
+#: inc/options/fields.php:1049
+msgid "Right Bottom"
+msgstr "Right Bottom"
+
+#: inc/options/fields.php:1063
+msgid "Background Repeat"
+msgstr "Background Repeat"
+
+#: inc/options/fields.php:1064
+msgid "Repeat"
+msgstr "Repeat"
+
+#: inc/options/fields.php:1065
+msgid "No Repeat"
+msgstr "No Repeat"
+
+#: inc/options/fields.php:1066
+msgid "Repeat Horizontally"
+msgstr "Repeat Horizontally"
+
+#: inc/options/fields.php:1067
+msgid "Repeat Vertically"
+msgstr "Repeat Vertically"
+
+#: inc/options/fields.php:1081
+msgid "Background Attachment"
+msgstr "Background Attachment"
+
+#: inc/options/fields.php:1082
+msgid "Scroll"
+msgstr "Scroll"
+
+#: inc/options/fields.php:1083
+msgid "Fixed"
+msgstr "Fixed"
+
+#: inc/options/fields.php:1097
+msgid "Background Size"
+msgstr "Background Size"
+
+#: inc/options/fields.php:1098
+msgid "Cover"
+msgstr "Cover"
+
+#: inc/options/fields.php:1099
+msgid "Contain"
+msgstr "Contain"
+
+#: inc/options/fields.php:1100
+msgid "Auto"
+msgstr "Auto"
+
+#: inc/options/fields.php:1114
+msgid "Background Origin"
+msgstr "Background Origin"
+
+#: inc/options/fields.php:1115 inc/options/fields.php:1133
+msgid "Padding Box"
+msgstr "Padding Box"
+
+#: inc/options/fields.php:1116 inc/options/fields.php:1132
+msgid "Border Box"
+msgstr "Border Box"
+
+#: inc/options/fields.php:1117 inc/options/fields.php:1134
+msgid "Content Box"
+msgstr "Content Box"
+
+#: inc/options/fields.php:1131
+msgid "Background Clip"
+msgstr "Background Clip"
+
+#: inc/options/fields.php:1148
+msgid "Background Blend Mode"
+msgstr "Background Blend Mode"
+
+#: inc/options/fields.php:1149
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/options/fields.php:1150
+msgid "Multiply"
+msgstr "Multiply"
+
+#: inc/options/fields.php:1151
+msgid "Screen"
+msgstr "Screen"
+
+#: inc/options/fields.php:1152
+msgid "Overlay"
+msgstr "Overlay"
+
+#: inc/options/fields.php:1153
+msgid "Darken"
+msgstr "Darken"
+
+#: inc/options/fields.php:1154
+msgid "Lighten"
+msgstr "Lighten"
+
+#: inc/options/fields.php:1155
+msgid "Color Dodge"
+msgstr "Color Dodge"
+
+#: inc/options/fields.php:1156
+msgid "Saturation"
+msgstr "Saturation"
+
+#: inc/options/fields.php:1157
+msgid "Color"
+msgstr "Color"
+
+#: inc/options/fields.php:1158
+msgid "Luminosity"
+msgstr "Luminosity"
+
+#: inc/options/fields.php:1358 inc/options/fields.php:1508
+msgid "Error: Field ID conflict."
+msgstr "Error: Field ID conflict."
+
+#: inc/options/fields.php:1369 inc/options/fields.php:1529
+#: inc/options/fields.php:1557
+msgid "确定要删除吗？"
+msgstr "Are you sure you want to delete it?"
+
+#: inc/options/fields.php:1570
+msgid "You cannot add more."
+msgstr "You cannot add more."
+
+#: inc/options/fields.php:1571
+msgid "You cannot remove more."
+msgstr "You cannot remove more."
+
+#: inc/options/functions.php:16 inc/options/functions.php:68
+#: inc/options/functions.php:105 inc/options/functions.php:142
+#: inc/options/functions.php:179 inc/options/functions.php:217
+#: inc/options/functions.php:252 inc/options/functions.php:281
+msgid "Error: Invalid nonce verification."
+msgstr "Error: Invalid nonce verification."
+
+#: inc/options/functions.php:72 inc/options/functions.php:109
+#: inc/options/functions.php:146 inc/options/functions.php:183
+#: inc/options/functions.php:221
+msgid "Error: Invalid key."
+msgstr "Error: Invalid key."
+
+#: inc/options/functions.php:225
+msgid "Error: The response is not a valid JSON response."
+msgstr "Error: The response is not a valid JSON response."
+
+#: inc/options/functions.php:285
+msgid "Error: Invalid term ID."
+msgstr "Error: Invalid term ID."
+
+#: inc/options/functions.php:291
+msgid "Error: You do not have permission to do that."
+msgstr "Error: You do not have permission to do that."
+
+#: inc/options/functions.php:545 inc/options/functions.php:617
+msgid "Please enter a valid email address."
+msgstr "Please enter a valid email address."
+
+#: inc/options/functions.php:563 inc/options/functions.php:637
+msgid "Please enter a valid number."
+msgstr "Please enter a valid number."
+
+#: inc/options/functions.php:581 inc/options/functions.php:657
+msgid "This field is required."
+msgstr "This field is required."
+
+#: inc/options/functions.php:599 inc/options/functions.php:677
+msgid "Please enter a valid URL."
+msgstr "Please enter a valid URL."
+
+#: inc/post-meta.php:56 inc/post-meta.php:179
+msgid "阅读模式"
+msgstr "Read"
+
+#: inc/post-meta.php:129
+msgid "来源："
+msgstr "Source:"
+
+#: inc/post-meta.php:164 inc/post-meta.php:345
+msgid "打印"
+msgstr "print"
+
+#: inc/post-meta.php:194 single-question.php:19
+msgid "侧边栏"
+msgstr "sidebar"
+
+#: inc/post-meta.php:296 single-download.php:66 single-vip.php:55
+#: template/content-quote.php:72
+msgid "最后更新"
+msgstr "Update"
+
+#: inc/post-meta.php:458 inc/post-meta.php:494
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: inc/post-meta.php:490 inc/post-meta.php:500
+msgid "刚刚"
+msgstr "Just"
+
+#: inc/post-meta.php:492 inc/post-meta.php:511
+msgid "前"
+msgstr " ago"
+
+#: inc/post-views.php:280
+msgid "百万"
+msgstr "M"
+
+#: inc/post-views.php:281
+msgid "千"
+msgstr "K"
+
+#: inc/profile-insert.php:33
+msgid "备注："
+msgstr "Note:"
+
+#: inc/profile-insert.php:35 inc/user-center.php:202
+msgid "无"
+msgstr "None"
+
+#: inc/publish-profile.php:10 pages/template-links.php:45
+msgid "带星号的必填"
+msgstr "Required fields are marked with an asterisk"
+
+#: inc/publish-profile.php:231
+msgid "未选择"
+msgstr "No selection"
+
+#: inc/publish-profile.php:271
+msgid "提 交"
+msgstr "Submit"
+
+#: inc/publish-profile.php:285
+msgid "注册登录后方可提交信息"
+msgstr "Login to submit"
+
+#: inc/search-captcha.php:42
+msgid "搜索验证"
+msgstr "Captcha"
+
+#: inc/search-captcha.php:53
+msgid "输入答案查看搜索结果"
+msgstr "Enter answer to see search results"
+
+#: inc/search-captcha.php:58
+msgid "返回首页"
+msgstr "Home"
+
+#: inc/search-history.php:458 template/search-main.php:116
+msgid "热门搜索"
+msgstr "Hot search"
+
+#: inc/section.php:172 searchform.php:5
+msgid "输入搜索内容"
+msgstr "Search Content"
+
+#: inc/section.php:317 inc/widgets/widget-site-type.php:115
+#: single-sites.php:134 template/cat-ajax-code.php:105
+msgid "收录"
+msgstr "Record"
+
+#: inc/section.php:713
+msgid "引用"
+msgstr "Pingback"
+
+#: inc/section.php:717 inc/widgets/widget-about.php:136
+msgid "访客"
+msgstr "Visitor"
+
+#: inc/seo-tdk.php:134
+msgid "在"
+msgstr "On"
+
+#: inc/seo-tdk.php:134
+msgid "网站搜索"
+msgstr "Website"
+
+#: inc/seo-tdk.php:138
+msgid "暂无个人说明"
+msgstr "None"
+
+#: inc/share-poster.php:188
+msgid "长按识别二维码查看详细内容"
+msgstr "Long press to identify QR code"
+
+#: inc/share-poster.php:259
+msgid "复制文章"
+msgstr "Copy"
+
+#: inc/share-poster.php:265
+msgid "打赏"
+msgstr "Reward"
+
+#: inc/share-poster.php:288 inc/share-poster.php:289 inc/share-poster.php:293
+#: inc/theme-setup.php:571
+msgid "复制链接"
+msgstr "Copy link"
+
+#: inc/share-poster.php:296
+msgid "海报"
+msgstr "Poster"
+
+#: inc/shortcode/toolbar.php:443 inc/widgets/widget-about-author.php:221
+#: inc/widgets/widget-about-author.php:255
+#: inc/widgets/widget-about-author.php:289 inc/widgets/widget-about.php:81
+#: inc/widgets/widget-about.php:99 inc/widgets/widget-about.php:101
+#: inc/widgets/widget-feed-widget.php:64 inc/widgets/widget-feed-widget.php:85
+msgid "点击复制"
+msgstr "Copy"
+
+#: inc/shortcode/toolbar/sc-downpassword.php:9
+msgid "<strong>网盘密码</strong><span class=\"reply-prompt\">登录可见</span>"
+msgstr ""
+"<strong>Cloud drive password</strong><span class=\"reply-prompt\">Login to "
+"view</span>"
+
+#: inc/shortcode/toolbar/sc-downpassword.php:11
+msgid ""
+"<strong>网盘密码</strong><span class=\"reply-prompt\">发表评论并刷新可见</"
+"span>"
+msgstr ""
+"<strong>Cloud drive password</strong><span class=\"reply-prompt\">Comment "
+"and refresh to see</span>"
+
+#: inc/shortcode/toolbar/sc-downpassword.php:45
+msgid "<strong>解压密码</strong><span class=\"reply-prompt\">登录可见</span>"
+msgstr ""
+"<strong>Unzip passwor</strong><span class=\"reply-prompt\">Login to view</"
+"span>"
+
+#: inc/shortcode/toolbar/sc-downpassword.php:47
+msgid ""
+"<strong>解压密码</strong><span class=\"reply-prompt\">发表评论并刷新可见</"
+"span>"
+msgstr ""
+"<strong>Unzip passwor</strong><span class=\"reply-prompt\">Login to view</"
+"span>"
+
+#: inc/shortcode/toolbar/sc-downpassword.php:81
+msgid "<strong>下载地址</strong><span class=\"reply-prompt\">登录可见</div>"
+msgstr ""
+"<strong>Download URL</strong><span class=\"reply-prompt\">Login to view</div>"
+
+#: inc/shortcode/toolbar/sc-downpassword.php:83
+msgid ""
+"<strong>下载地址</strong><span class=\"reply-prompt\">发表评论并刷新可见</"
+"div>"
+msgstr ""
+"<strong>Download URL</strong><span class=\"reply-prompt\">Comment and "
+"refresh to see</div>"
+
+#: inc/shortcode/toolbar/sc-loginread.php:39
+#: inc/shortcode/toolbar/sc-rolevisible.php:60
+msgid "已登录，点击下方按钮查看内容"
+msgstr "Logged in. Click to view."
+
+#: inc/shortcode/toolbar/sc-loginread.php:40
+#: inc/shortcode/toolbar/sc-replyread.php:36
+#: inc/shortcode/toolbar/sc-replyread.php:77
+#: inc/shortcode/toolbar/sc-rolevisible.php:61
+#: inc/shortcode/toolbar/sc-secret.php:23
+#: inc/shortcode/toolbar/sc-wechat.php:31
+msgid "显示内容"
+msgstr "Display"
+
+#: inc/shortcode/toolbar/sc-loginread.php:41
+#: inc/shortcode/toolbar/sc-replyread.php:39
+#: inc/shortcode/toolbar/sc-replyread.php:80
+#: inc/shortcode/toolbar/sc-rolevisible.php:62
+#: inc/shortcode/toolbar/sc-secret.php:24
+#: inc/shortcode/toolbar/sc-wechat.php:32
+msgid "隐藏内容"
+msgstr "Hidden"
+
+#: inc/shortcode/toolbar/sc-more.php:17
+msgid "收缩"
+msgstr "Hide"
+
+#: inc/shortcode/toolbar/sc-regprotect.php:14
+msgid "输入密码"
+msgstr "Enter password"
+
+#: inc/shortcode/toolbar/sc-replyread.php:34
+#: inc/shortcode/toolbar/sc-replyread.php:75
+#: inc/shortcode/toolbar/sc-secret.php:22
+#: inc/shortcode/toolbar/sc-wechat.php:30
+msgid "验证通过，点击下方按钮查看内容"
+msgstr "Verified. Click to view."
+
+#: inc/shortcode/toolbar/sc-secret.php:15
+msgid "密码错误，请重试"
+msgstr "Incorrect password, please try again."
+
+#: inc/shortcode/toolbar/sc-secret.php:37
+msgid "输入密码查看隐藏内容"
+msgstr "Enter password View"
+
+#: inc/shortcode/toolbar/sc-wechat.php:21
+msgid "验证码不能为空"
+msgstr "Verification code cannot be empty."
+
+#: inc/shortcode/toolbar/sc-wechat.php:23
+msgid "验证码错误，请重试"
+msgstr "Verification code is incorrect, please try again."
+
+#: inc/shortcode/toolbar/sc-wechat.php:45
+msgid "输入验证码查看隐藏内容"
+msgstr "Verification code view"
+
+#: inc/show-password.php:26
+msgid "密码错误"
+msgstr "Password error"
+
+#: inc/show-password.php:51
+msgid "请输入密码访问网站"
+msgstr "Please enter password to access"
+
+#: inc/single-nav.php:32 inc/single-nav.php:84 inc/single-nav.php:105
+msgid "上一篇"
+msgstr "Previous"
+
+#: inc/single-nav.php:43 inc/single-nav.php:86 inc/single-nav.php:105
+#: inc/single-nav.php:121
+msgid "已是最后"
+msgstr "No more"
+
+#: inc/single-nav.php:61 inc/single-nav.php:89 inc/single-nav.php:106
+msgid "下一篇"
+msgstr "Next"
+
+#: inc/single-nav.php:72 inc/single-nav.php:91 inc/single-nav.php:106
+#: inc/single-nav.php:126
+msgid "已是最新"
+msgstr "No more"
+
+#: inc/theme-setup.php:570 inc/widgets/widget-about-author.php:228
+#: inc/widgets/widget-about-author.php:264 inc/widgets/widget-about.php:85
+#: inc/widgets/widget-feed-widget.php:68 template/weixin.php:10
+msgid "已复制"
+msgstr "Copied"
+
+#: inc/token.php:11
+msgid "激活主题"
+msgstr "Activate"
+
+#: inc/token.php:13
+msgid "购买授权"
+msgstr "Buy"
+
+#: inc/upload-avatars.php:87
+msgid "头像"
+msgstr "Profile Picture"
+
+#: inc/upload-avatars.php:91 inc/upload-avatars.php:125
+msgid "上传头像"
+msgstr "Upload picture"
+
+#: inc/upload-avatars.php:103
+msgid "选择一张图片"
+msgstr "Choose a picture"
+
+#: inc/upload-avatars.php:104 inc/upload-avatars.php:138
+#: inc/upload-avatars.php:183
+msgid "头像图片要求小于"
+msgstr "Avatar image smaller than "
+
+#: inc/upload-avatars.php:106 inc/upload-avatars.php:134
+msgid "删除本地头像"
+msgstr "Delete local Avatar"
+
+#: inc/upload-avatars.php:107
+msgid "上传新头像或删除本地头像"
+msgstr "Upload new avatar or delete local avatar"
+
+#: inc/upload-avatars.php:110 inc/upload-avatars.php:143
+msgid "未设置本地头像，在Gravatar.com上设置您的头像"
+msgstr "You can change your profile picture on Gravatar"
+
+#: inc/upload-avatars.php:112
+msgid "申请设置头像"
+msgstr "Apply to set up a avatars"
+
+#: inc/upload-avatars.php:125 inc/upload-avatars.php:127
+msgid "未选择文件"
+msgstr "No file selected"
+
+#: inc/upload-avatars.php:127
+msgid "更换头像"
+msgstr "Change avatar"
+
+#: inc/upload-avatars.php:130
+msgid "未设置本地头像"
+msgstr "No local avatar set"
+
+#: inc/upload-avatars.php:145
+msgid "申请全球通用头像"
+msgstr "You can change your profile picture on Gravatar."
+
+#: inc/upload-avatars.php:177
+msgid "不能上传php文件"
+msgstr "Can't upload php file"
+
+#: inc/upload-avatars.php:199
+msgid "此文件不能用于头像"
+msgstr "This file cannot be used for avatars"
+
+#: inc/upload-avatars.php:204
+msgid "请上传有效的头像图片文件"
+msgstr "Please upload a valid avatar image file"
+
+#: inc/upload-avatars.php:212
+msgid "上传头像时出错"
+msgstr "There was an error uploading the avatar"
+
+#: inc/user-center.php:85
+#, php-format
+msgid "%s 欢迎回来！"
+msgstr "%s Welcome back！"
+
+#: inc/user-center.php:165 pages/template-user.php:44
+msgid "欢迎回来！"
+msgstr "Howdy！"
+
+#: inc/user-center.php:183 inc/user-center.php:189
+msgid "角色"
+msgstr "Role"
+
+#: inc/user-center.php:198
+msgid "我的站点"
+msgstr "Website"
+
+#: inc/user-center.php:210
+msgid "注册时间"
+msgstr "Register"
+
+#: inc/user-center.php:214
+msgid "最后登录"
+msgstr "Lastlogin"
+
+#: inc/user-center.php:221
+msgid "暂无记录"
+msgstr "No records"
+
+#: inc/user-center.php:251 inc/widgets/widget-pages-comments.php:71
+#: inc/widgets/widget-recent-comments.php:118 inc/widgets/widget-tabs.php:245
+#: pages/template-message.php:45
+msgid "暂无留言"
+msgstr "No message"
+
+#: inc/user-center.php:269
+msgid "状态"
+msgstr "Status"
+
+#: inc/user-center.php:290
+msgid "通过"
+msgstr "Published"
+
+#: inc/user-center.php:293
+msgid "待审"
+msgstr "Previous"
+
+#: inc/user-center.php:337 inc/user-center.php:340
+msgid "点击跳转到投稿页面"
+msgstr "Contribute to"
+
+#: inc/widgets/widget-about.php:130 inc/widgets/widget-site-profile.php:50
+#: pages/template-archives.php:106
+msgid "留言"
+msgstr "Comments"
+
+#: inc/widgets/widget-ajax-random.php:49
+msgid "换一批"
+msgstr "Refresh"
+
+#: inc/widgets/widget-ajax-tab.php:157 inc/widgets/widget-ajax-tab.php:340
+#: inc/widgets/widget-tabs.php:48 inc/widgets/widget-tabs.php:125
+msgid "最新文章"
+msgstr "Recent Posts"
+
+#: inc/widgets/widget-ajax-tab.php:158 inc/widgets/widget-ajax-tab.php:384
+msgid "大家喜欢"
+msgstr "like"
+
+#: inc/widgets/widget-ajax-tab.php:159 inc/widgets/widget-ajax-tab.php:442
+#: inc/widgets/widget-tabs.php:50 inc/widgets/widget-tabs.php:183
+msgid "热门文章"
+msgstr "Top Article"
+
+#: inc/widgets/widget-ajax-tab.php:160 inc/widgets/widget-ajax-tab.php:617
+#: inc/widgets/widget-tabs.php:49 inc/widgets/widget-tabs.php:162
+msgid "热评文章"
+msgstr "Buzz articles"
+
+#: inc/widgets/widget-ajax-tab.php:161 inc/widgets/widget-ajax-tab.php:554
+msgid "随机文章"
+msgstr "Random"
+
+#: inc/widgets/widget-ajax-tab.php:162 inc/widgets/widget-ajax-tab.php:507
+msgid "推荐阅读"
+msgstr "Top"
+
+#: inc/widgets/widget-ajax-tab.php:425
+msgid "暂无被点赞的文章"
+msgstr "None"
+
+#: inc/widgets/widget-attachment.php:78
+msgid "编号"
+msgstr "No"
+
+#: inc/widgets/widget-audio.php:14 inc/widgets/widget-audio.php:16
+msgid "音频播放器"
+msgstr "音频播放器"
+
+#: inc/widgets/widget-audio.php:77
+msgid "选择音频"
+msgstr "选择音频"
+
+#: inc/widgets/widget-calendar.php:117 inc/widgets/widget-calendar.php:119
+#: pages/template-archives.php:84 template/header-img.php:22
+#: template/header-img.php:25
+msgid "年"
+msgstr "years"
+
+#: inc/widgets/widget-countdown.php:78 inc/widgets/widget-site-profile.php:53
+msgid "今日"
+msgstr "Today"
+
+#: inc/widgets/widget-countdown.php:85 inc/widgets/widget-countdown.php:96
+#: inc/widgets/widget-countdown.php:107 inc/widgets/widget-countdown.php:118
+msgid "已"
+msgstr "Has"
+
+#: inc/widgets/widget-countdown.php:85
+msgid "小时"
+msgstr "S"
+
+#: inc/widgets/widget-countdown.php:89 inc/widgets/widget-site-profile.php:54
+msgid "本周"
+msgstr "Week"
+
+#: inc/widgets/widget-countdown.php:96 inc/widgets/widget-countdown.php:107
+#: inc/widgets/widget-site-profile.php:55
+msgid "天"
+msgstr "day"
+
+#: inc/widgets/widget-countdown.php:100
+msgid "本月"
+msgstr "Month"
+
+#: inc/widgets/widget-countdown.php:111
+msgid "今年"
+msgstr "Year"
+
+#: inc/widgets/widget-countdown.php:118 pages/template-archives.php:51
+msgid "月"
+msgstr "Mth"
+
+#: inc/widgets/widget-day-post.php:88 inc/widgets/widget-week-post.php:77
+msgid "暂无更新"
+msgstr "No Update"
+
+#: inc/widgets/widget-login.php:46
+#, php-format
+msgid "%s，您还未登录！"
+msgstr "%s，Not logged in！"
+
+#: inc/widgets/widget-pages-comments.php:59
+#: inc/widgets/widget-recent-comments.php:85
+#: inc/widgets/widget-sticky-comments.php:70 inc/widgets/widget-tabs.php:210
+msgid "发表在"
+msgstr "in"
+
+#: inc/widgets/widget-recently-viewed.php:71
+msgid "清除"
+msgstr "Clear"
+
+#: inc/widgets/widget-recently-viewed.php:183
+msgid "短代码:"
+msgstr "Shortcode:"
+
+#: inc/widgets/widget-site-profile.php:51
+msgid "链接"
+msgstr "Links"
+
+#: inc/widgets/widget-site-profile.php:55
+msgid "运行"
+msgstr "Aun"
+
+#: inc/widgets/widget-special-img.php:87
+msgid "未添加专题ID"
+msgstr "No topic ID added"
+
+#: inc/widgets/widget-special-list.php:93
+msgid "共"
+msgstr "Total of "
+
+#: inc/widgets/widget-sponsor.php:66
+msgid "Title:"
+msgstr "Title:"
+
+#: inc/widgets/widget-tabs.php:51 inc/widgets/widget-tabs.php:200
+msgid "最近留言"
+msgstr "Recent Comments"
+
+#: inc/widgets/widget-timing-post.php:55
+msgid "预定发表于"
+msgstr "Set to be issued on"
+
+#: inc/widgets/widget-toc.php:34
+msgid "文章目录"
+msgstr "Table of Contents"
+
+#: pages/template-archives.php:75
+msgid "网站已稳定运行"
+msgstr "The website operates stably"
+
+#: pages/template-go.php:24
+msgid "您即将访问外部网站，是否继续？"
+msgstr "Are you about to visit an external site, Continue?"
+
+#: pages/template-go.php:31
+msgid "返回"
+msgstr "Back"
+
+#: pages/template-links.php:49
+msgid "网站名称"
+msgstr "website name"
+
+#: pages/template-links.php:53
+msgid "网站链接"
+msgstr "website URL"
+
+#: pages/template-links.php:58 template/header-sub.php:116
+msgid "QQ"
+msgstr "QQ"
+
+#: pages/template-links.php:63 single-sites.php:57
+msgid "网站描述"
+msgstr "website description"
+
+#: pages/template-links.php:68
+msgid "提交申请"
+msgstr "submit"
+
+#: pages/template-links.php:71
+msgid "提交中，请稍候..."
+msgstr "Submitting, please wait..."
+
+#: pages/template-user.php:54 pages/template-user.php:89
+msgid "我的信息"
+msgstr "My profile"
+
+#: pages/template-user.php:57 pages/template-user.php:103
+msgid "我的订单"
+msgstr "My Order"
+
+#: pages/template-user.php:60 pages/template-user.php:111
+msgid "购买VIP"
+msgstr "Purchase VIP"
+
+#: pages/template-user.php:62 pages/template-user.php:118
+#: shop/template-vip.php:1628
+msgid "我的文章"
+msgstr "My Posts"
+
+#: pages/template-user.php:63 pages/template-user.php:123
+#: shop/template-vip.php:1635
+msgid "我的评论"
+msgstr "My comments"
+
+#: pages/template-user.php:66 pages/template-user.php:130
+#: shop/template-vip.php:1643
+msgid "我的收藏"
+msgstr "My favorite"
+
+#: shop/setup-vip.php:97
+msgid "资源"
+msgstr "ASSETS"
+
+#: shop/setup-vip.php:219 shop/setup-vip.php:648 single-sites.php:144
+msgid "热度"
+msgstr "Hot"
+
+#: shop/setup-vip.php:554
+msgid "用于显示当前文章下载信息"
+msgstr "Article download information"
+
+#: shop/setup-vip.php:2823 shop/setup-vip.php:2960 shop/setup-vip.php:2974
+#: shop/setup-vip.php:2990 shop/setup-vip.php:3006 shop/setup-vip.php:3020
+#: shop/setup-vip.php:3034 shop/setup-vip.php:3048 shop/setup-vip.php:3062
+#: shop/setup-vip.php:3077 shop/setup-vip.php:3091 shop/setup-vip.php:3133
+#: shop/setup-vip.php:3149 shop/setup-vip.php:3162
+msgid "您暂时无权查看此隐藏内容！"
+msgstr "You do not have access to the content!"
+
+#: show/related-show.php:5
+msgid "相关推荐"
+msgstr "Related posts"
+
+#: single-beqa.php:44
+msgid "您可能喜欢"
+msgstr "You might like"
+
+#: single-download.php:51 single-vip.php:40 template/content-quote.php:57
+msgid "所属分类"
+msgstr "Categories"
+
+#: single-download.php:79 single-vip.php:71
+msgid "资源简介"
+msgstr "Synopsis"
+
+#: single-download.php:80
+msgid "免责声明"
+msgstr "Disclaimer"
+
+#: single-novel.php:45
+msgid "返回目录"
+msgstr "Back"
+
+#: single-product-reviews.php:24
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] "%1$s review for %2$s"
+msgstr[1] "%1$s reviews for %2$s"
+
+#: single-product-reviews.php:27
+msgid "Reviews"
+msgstr "Reviews"
+
+#: single-product-reviews.php:54
+msgid "There are no reviews yet."
+msgstr "There are no reviews yet."
+
+#: single-product-reviews.php:65
+msgid "Add a review"
+msgstr "Add a review"
+
+#: single-product-reviews.php:65
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "Be the first to review &ldquo;%s&rdquo;"
+
+#: single-product-reviews.php:67
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Leave a Reply to %s"
+
+#: single-product-reviews.php:71
+msgid "Submit"
+msgstr "Submit"
+
+#: single-product-reviews.php:79
+msgid "Name"
+msgstr "Name"
+
+#: single-product-reviews.php:85
+msgid "Email"
+msgstr "Email"
+
+#: single-product-reviews.php:110
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr "You must be %1$slogged in%2$s to post a review."
+
+#: single-product-reviews.php:114
+msgid "Your rating"
+msgstr "Your rating"
+
+#: single-product-reviews.php:115
+msgid "Rate&hellip;"
+msgstr "Rate&hellip;"
+
+#: single-product-reviews.php:116
+msgid "Perfect"
+msgstr "Perfect"
+
+#: single-product-reviews.php:117
+msgid "Good"
+msgstr "Good"
+
+#: single-product-reviews.php:118
+msgid "Average"
+msgstr "Average"
+
+#: single-product-reviews.php:119
+msgid "Not that bad"
+msgstr "Not that bad"
+
+#: single-product-reviews.php:120
+msgid "Very poor"
+msgstr "Very poor"
+
+#: single-product-reviews.php:124
+msgid "Your review"
+msgstr "Your review"
+
+#: single-product-reviews.php:131
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"Only logged in customers who have purchased this product may leave a review."
+
+#: single-sites.php:69
+msgid "网站描述待添加"
+msgstr "Website description to be added"
+
+#: single-sites.php:81 single-sites.php:84
+msgid "预览"
+msgstr "Preview"
+
+#: single-sites.php:82 single-sites.php:85 single-sites.php:153
+#: single-sites.php:155
+msgid "访问"
+msgstr "Go"
+
+#: single-sites.php:135
+msgid "类别"
+msgstr "Category"
+
+#: single-sites.php:140 single-video.php:34
+msgid "条"
+msgstr "item"
+
+#: single-vip.php:78
+msgid "常见问题"
+msgstr "Q&A"
+
+#: single-vip.php:81
+msgid "下载说明"
+msgstr "Explain"
+
+#: single-vip.php:87
+msgid "评论留言"
+msgstr "Comment"
+
+#: taxonomy-notice.php:34
+msgid "专栏作者"
+msgstr "Author"
+
+#: taxonomy-notice.php:37
+msgid "自由撰稿人"
+msgstr "Contributor"
+
+#: taxonomy.php:65 taxonomy.php:86 taxonomy.php:130
+msgid "无符合的文章！"
+msgstr "No matching article!"
+
+#: template-woo.php:36 woocommerce/be-woo/cms-woo.php:31
+#: woocommerce/be-woo/group-woo.php:47
+msgid "促销中"
+msgstr "Promotion"
+
+#: template/cat-ajax-code.php:123 template/cp-ajax-code.php:57
+msgid "全部"
+msgstr "All"
+
+#: template/content-image.php:33
+msgid "张图片"
+msgstr "Picture"
+
+#: template/content-none.php:5 template/content-none.php:14
+msgid "目前还没有文章！"
+msgstr "Nothing Found"
+
+#: template/content-none.php:6
+msgid "点击这里发布您的第一篇文章"
+msgstr "Click here to publish your first post"
+
+#: template/content-none.php:9
+msgid "没有您要找的文章！"
+msgstr "Nothing Found"
+
+#: template/content-none.php:11
+msgid "抱歉，没有找到您的搜索内容。 请尝试换个关键字再试一次。"
+msgstr ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+
+#: template/copyright.php:13 template/copyright.php:62
+msgid "本文由"
+msgstr "By"
+
+#: template/copyright.php:25
+msgid "投稿"
+msgstr "Contributor"
+
+#: template/copyright.php:25 template/copyright.php:56
+#: template/copyright.php:74
+msgid "发表于"
+msgstr "Published on"
+
+#: template/copyright.php:50
+msgid "版权声明"
+msgstr "Copyright"
+
+#: template/copyright.php:50
+msgid "本文源自"
+msgstr "The original"
+
+#: template/copyright.php:56
+msgid "整理"
+msgstr "Arrange"
+
+#: template/header-img.php:56 template/header-img.php:58
+msgid "包含"
+msgstr "Contains"
+
+#: template/header-img.php:56
+msgid "专栏"
+msgstr "Column"
+
+#: template/placard.php:32
+msgid "公告"
+msgstr "Placard"
+
+#: template/scroll.php:89
+msgid "本页二维码"
+msgstr "Qr code"
+
+#: template/search-main.php:9
+msgid "站内"
+msgstr "Default"
+
+#: template/search-main.php:10
+msgid "百度"
+msgstr "Baidu"
+
+#: template/search-main.php:11
+msgid "谷歌"
+msgstr "Google"
+
+#: template/search-main.php:12
+msgid "必应"
+msgstr "Bing"
+
+#: template/search-main.php:13
+msgid "搜狗"
+msgstr "Sogou"
+
+#: template/search-main.php:14
+msgid "360"
+msgstr "360"
+
+#: template/search-main.php:88
+msgid "上网从搜狗开始"
+msgstr "Sogou"
+
+#: template/search-main.php:100
+msgid "360搜索"
+msgstr "360"
+
+#: woocommerce/loop/orderby.php:13
+msgid "Shop order"
+msgstr "Shop order"
+
+#: woocommerce/single-product/related.php:17
+msgid "Related products"
+msgstr "Related products"
+
+#: woocommerce/woo.php:50 woocommerce/woo.php:55
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#. Theme Name of the plugin/theme
+msgid "Begin"
+msgstr "Begin"
+
+#. Theme URI of the plugin/theme
+msgid "https://zmingcx.com/begin.html"
+msgstr "https://zmingcx.com/begin.html"
+
+#. Description of the plugin/theme
+msgid ""
+"HTML5+CSS3 响应式设计，博客、杂志、图片、公司企业多种布局可选，集成SEO自定义"
+"功能，丰富的主题选项，众多实用小工具。"
+msgstr "HTML5+CSS3 responsive design."
+
+#. Author of the plugin/theme
+msgid "知更鸟"
+msgstr "Robin"
+
+#. Author URI of the plugin/theme
+msgid "https://zmingcx.com/"
+msgstr "https://zmingcx.com/"
+
+#. Template Name of the plugin/theme
+msgid "问答模板"
+msgstr "问答模板"
+
+#. Template Name of the plugin/theme
+msgid "简介模板"
+msgstr "简介模板"
+
+#. Template Name of the plugin/theme
+msgid "展示模板"
+msgstr "展示模板"
+
+#. Template Name of the plugin/theme
+msgid "下载模板"
+msgstr "下载模板"
+
+#. Template Name of the plugin/theme
+msgid "简化模板"
+msgstr "简化模板"
+
+#. Template Name of the plugin/theme
+msgid "商品模板"
+msgstr "商品模板"
+
+#. Template Name of the plugin/theme
+msgid "文档模板"
+msgstr "文档模板"
+
+#. Template Name of the plugin/theme
+msgid "文档模板-章节"
+msgstr "文档模板-章节"
+
+#. Template Name of the plugin/theme
+msgid "小说模板"
+msgstr "小说模板"
+
+#. Template Name of the plugin/theme
+msgid "会员资源"
+msgstr "会员资源"
+
+#. Template Name of the plugin/theme
+msgid "Woo商城"
+msgstr "Woo商城"
+
+#~ msgid "篇文章"
+#~ msgstr "Article"
+
+#~ msgid "正文"
+#~ msgstr "Post"
+
+#~ msgid "貌似填写的不是QQ号！"
+#~ msgstr "It seems like the input is not a QQ number!"
+
+#~ msgid "提交成功，请等待站长审核通过！"
+#~ msgstr "Submission successful. Please wait for site administrator approval!"
+
+#~ msgid "历史上的今天"
+#~ msgstr "Today in History"
+
+#~ msgid "Number of posts to show:"
+#~ msgstr "Number of posts to show:"
+
+#~ msgid "无此用户"
+#~ msgstr "No such user"
+
+#~ msgid "关注他"
+#~ msgstr "Follow him"
+
+#~ msgid "热"
+#~ msgstr "HOT"
+
+#~ msgid "备注英文"
+#~ msgstr "备注英文"
+
+#~ msgid "投稿者"
+#~ msgstr "Contributor"
+
+#~ msgid "订阅者"
+#~ msgstr "Subscriber"
+
+#~ msgid "本站编辑"
+#~ msgstr "Editor"
+
+#~ msgid "天外来客"
+#~ msgstr "Unknown"
+
+#~ msgid "请输入用户名"
+#~ msgstr "Please enter user name"
+
+#~ msgid "请输入密码"
+#~ msgstr "Please enter password"
+
+#~ msgid "用户名错误"
+#~ msgstr "Username error"
+
+#~ msgid "密码不匹配"
+#~ msgstr "Password mismatch"
+
+#~ msgid "换个用户名"
+#~ msgstr "Change username"
+
+#~ msgid "此邮箱已被注册"
+#~ msgstr "Email already registered"
+
+#~ msgid "注册已被禁用"
+#~ msgstr "Registration has been disabled"
+
+#~ msgid "滑动解锁"
+#~ msgstr "Slide to unlock"
+
+#~ msgid "个网站"
+#~ msgstr "Websites"
+
+#~ msgid "所有文章"
+#~ msgstr "All articles"
+
+#~ msgid "份所有文章"
+#~ msgstr "All articles"
+
+#~ msgid "我要投稿"
+#~ msgstr "Contribute"
+
+#~ msgid "今日更新"
+#~ msgstr "Newest"
+
+#~ msgid "热门推荐"
+#~ msgstr "Hot Rec"
+
+#~ msgid "搜索音频分类"
+#~ msgstr "搜索音频分类"
+
+#~ msgid "全部音频分类"
+#~ msgstr "全部音频分类"
+
+#~ msgid "添加新分类"
+#~ msgstr "添加新分类"
+
+#~ msgid "新分类名称"
+#~ msgstr "新分类名称"
+
+#~ msgid "您没有通过安全检查"
+#~ msgstr "Failed security check"
+
+#~ msgid "您没有权限删除这篇文章"
+#~ msgstr "No permission to delete articles"
+
+#~ msgid "这篇文章不能被删除"
+#~ msgstr "Article cannot be deleted"
+
+#~ msgid "这篇文章已被成功删除!"
+#~ msgstr "The article has been deleted!"
+
+#~ msgid "您没有权限编辑这篇文章"
+#~ msgstr "No editing rights"
+
+#~ msgid "您没有权限编辑这篇文章。"
+#~ msgstr "You do not have permission to edit the article."
+
+#~ msgid "人个主页"
+#~ msgstr "Profile page"
+
+#~ msgid "字数"
+#~ msgstr "Word count"
+
+#~ msgid "All Settings"
+#~ msgstr "All Settings"
+
+#~ msgid "m月d日"
+#~ msgstr "m/d"
+
+#~ msgid ""
+#~ "<strong>网盘密码：</strong><span class=\"reply-prompt\"><i class=\"be be-"
+#~ "warning\"></i>登录可见</span>"
+#~ msgstr ""
+#~ "<strong>Network disk password：</strong><span class=\"reply-prompt\"><i "
+#~ "class=\"be be-warning\"></i>Login visible</span>"
+
+#~ msgid ""
+#~ "<strong>网盘密码：</strong><span class=\"reply-prompt\"><i class=\"be be-"
+#~ "warning\"></i>发表评论并刷新可见</span>"
+#~ msgstr ""
+#~ "<strong>Network disk password：</strong><span class=\"reply-prompt\"><i "
+#~ "class=\"be be-warning\"></i>Login visible</span>"
+
+#~ msgid ""
+#~ "<strong>解压密码：</strong><span class=\"reply-prompt\"><i class=\"be be-"
+#~ "warning\"></i>登录可见</span>"
+#~ msgstr ""
+#~ "<strong>Extracting passwords：</strong><span class=\"reply-prompt\"><i "
+#~ "class=\"be be-warning\"></i>Login visible</span>"
+
+#~ msgid ""
+#~ "<strong>解压密码：</strong><span class=\"reply-prompt\"><i class=\"be be-"
+#~ "warning\"></i>发表评论并刷新可见</span>"
+#~ msgstr ""
+#~ "<strong>Extracting passwords：</strong><span class=\"reply-prompt\"><i "
+#~ "class=\"be be-warning\"></i>Comment and refresh visible</span>"
+
+#~ msgid ""
+#~ "<strong>下载地址：</strong><span class=\"reply-prompt\"><i class=\"be be-"
+#~ "warning\"></i>登录可见</div>"
+#~ msgstr ""
+#~ "<strong>Download link：</strong><span class=\"reply-prompt\"><i class="
+#~ "\"be be-warning\"></i>Login visible</div>"
+
+#~ msgid ""
+#~ "<strong>下载地址：</strong><span class=\"reply-prompt\"><i class=\"be be-"
+#~ "warning\"></i>发表评论并刷新可见</div>"
+#~ msgstr ""
+#~ "<strong>Download link：</strong><span class=\"reply-prompt\"><i class="
+#~ "\"be be-warning\"></i>Comment and refresh visible</div>"
+
+#~ msgid "%d Answer"
+#~ msgid_plural "%d Answers"
+#~ msgstr[0] "%d 答案"
+#~ msgstr[1] "%d 答案"
+
+#~ msgid "%d Vote"
+#~ msgid_plural "%d Votes"
+#~ msgstr[0] "%d 投票"
+#~ msgstr[1] "%d 投票"
+
+#~ msgctxt "post type general name"
+#~ msgid "所有音频"
+#~ msgstr "所有音频"
+
+#~ msgid "移除"
+#~ msgstr "移除"
+
+#~ msgid "切换音频列表循环播放"
+#~ msgstr "切换音频列表循环播放"
+
+#~ msgid "切换音频列表的可见性"
+#~ msgstr "切换音频列表的可见性"
+
+#~ msgid "用户名与密码不匹配"
+#~ msgstr "Username and password do not match"
+
+#~ msgid "用户名已被占用"
+#~ msgstr "Username already taken"
+
+#~ msgid "请输入用户名和密码"
+#~ msgstr "Please enter username and password"
+
+#~ msgid "请输入正确的邮箱"
+#~ msgstr "Please enter your vaild email"
+
+#~ msgid "滑动解锁才能提交"
+#~ msgstr "Slide to unlock"
+
+#~ msgid "社交登录"
+#~ msgstr "Social login"
+
+#~ msgid "滑动拼图以登录"
+#~ msgstr "Slide puzzle to log in"
+
+#~ msgid "滑动拼图以注册"
+#~ msgstr "Slide puzzle to register"
+
+#~ msgid "验证码"
+#~ msgstr "Captcha"
+
+#~ msgid "刷新验证码"
+#~ msgstr "Refresh"
+
+#~ msgid "请输入正确的验证码"
+#~ msgstr "Please enter correct verify code"
+
+#~ msgid "收起菜单"
+#~ msgstr "Pack up"
+
+#~ msgid "暂无搜索记录"
+#~ msgstr "No search history"
+
+#~ msgid "新"
+#~ msgstr "NEW"
+
+#~ msgid "注册信息通过邮箱发给您"
+#~ msgstr "Registration confirmation email to you"
+
+#~ msgid "已过"
+#~ msgstr "has"
+
+#~ msgid "已是"
+#~ msgstr "has"
+
+#~ msgid "目前还没有文章！可以尝试使用下面的搜索功能，查找您喜欢的文章！"
+#~ msgstr ""
+#~ "Nothing Found!It seems we can’t find what you’re looking for. Perhaps "
+#~ "searching can help."
+
+#~ msgid "个人主页"
+#~ msgstr "Profile page"
+
+#~ msgid "发表的文章"
+#~ msgstr "published articles"
+
+#~ msgid "发表的所有文章"
+#~ msgstr "All articles published"
+
+#~ msgid "相关文章"
+#~ msgstr "Related Articles"
+
+#~ msgid "填写信息"
+#~ msgstr "Write"
+
+#~ msgid "之后可以用邮箱登录，"
+#~ msgstr "You can log in via email,"
+
+#~ msgid "请先完善个人信息，绑定邮箱！"
+#~ msgstr "Please complete your profile by providing your email address!"
+
+#~ msgid "绑定邮箱"
+#~ msgstr "Fill in the email"
+
+#~ msgid "字母或数字"
+#~ msgstr "Letter or number"
+
+#~ msgid "电子邮件"
+#~ msgstr "Email"
+
+#~ msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+#~ msgstr "No menus have been created yet. <a href=\"%s\">Create some</a>."
+
+#~ msgid "Select Menu:"
+#~ msgstr "Select Menu:"
+
+#~ msgid "&mdash; Select &mdash;"
+#~ msgstr "&mdash; Select &mdash;"
+
+#~ msgid "隐藏菜单"
+#~ msgstr "Hidden menu"
+
+#~ msgid "软件简介"
+#~ msgstr "Intro"
+
+#~ msgid "于"
+#~ msgstr "at "
+
+#~ msgid "搜索结果"
+#~ msgstr "Search Results"
+
+#~ msgid "无匹配文章"
+#~ msgstr "Not Found"
+
+#~ msgid "用户中心"
+#~ msgstr "User Center"
+
+#~ msgid "更多文章"
+#~ msgstr "More"
+
+#~ msgid "搜索热点"
+#~ msgstr "Search hotspot"
+
+#~ msgid "置顶"
+#~ msgstr "Sticky"
+
+#~ msgid "上页"
+#~ msgstr "Previous"
+
+#~ msgid "下页"
+#~ msgstr "Next"
+
+#~ msgid "不能再添加了。"
+#~ msgstr "不能再添加了。"
+
+#~ msgid "你不能移除更多。"
+#~ msgstr "你不能移除更多。"
+
+#~ msgid "验证"
+#~ msgstr "Verify"
+
+#~ msgid "个人信息"
+#~ msgstr "Profile"
+
+#~ msgid "修改个人信息"
+#~ msgstr "Update Profile"
+
+#~ msgid "推荐栏目"
+#~ msgstr "Recommend"
+
+#~ msgid "You're a bot!"
+#~ msgstr "You're a bot!"
+
+#~ msgid "您没有编辑此评论的权限"
+#~ msgstr "No permission to edit comments"
+
+#~ msgid "文章源自"
+#~ msgstr "Source"
+
+#~ msgid "发送邮件成功！"
+#~ msgstr "Message has been sent!"
+
+#~ msgid "Edit Menu"
+#~ msgstr "Edit Menu"
+
+#~ msgid "请输入您的姓名！"
+#~ msgstr "please enter your name!"
+
+#~ msgid "请输入您的电子邮件地址！"
+#~ msgstr "Please enter your email address!"
+
+#~ msgid "您输入了一个无效的电子邮件地址！"
+#~ msgstr "You have entered an invalid email address!"
+
+#~ msgid "请输入邮件内容！"
+#~ msgstr "Please enter the content of the email!"
+
+#~ msgid "请输入验证码！"
+#~ msgstr "please enter verification code!"
+
+#~ msgid "请输入正确的验证码！"
+#~ msgstr "Please enter correct verify code!"
+
+#~ msgid "来自网站的邮件 - "
+#~ msgstr "Mail from website - "
+
+#~ msgid "关键词"
+#~ msgstr "Keyword"
+
+#~ msgid "您的电子邮件已发送成功！"
+#~ msgstr "Your email has been sent successfully!"
+
+#~ msgid "请检查填写是否正确！"
+#~ msgstr "Please check whether the filling is correct!"
+
+#~ msgid "邮件内容"
+#~ msgstr "Email content"
+
+#~ msgid "Repeat All"
+#~ msgstr "Repeat All"
+
+#~ msgid "Top Left"
+#~ msgstr "Top Left"
+
+#~ msgid "Top Center"
+#~ msgstr "Top Center"
+
+#~ msgid "Top Right"
+#~ msgstr "Top Right"
+
+#~ msgid "Middle Left"
+#~ msgstr "Middle Left"
+
+#~ msgid "Middle Center"
+#~ msgstr "Middle Center"
+
+#~ msgid "Middle Right"
+#~ msgstr "Middle Right"
+
+#~ msgid "Bottom Left"
+#~ msgstr "Bottom Left"
+
+#~ msgid "Bottom Center"
+#~ msgstr "Bottom Center"
+
+#~ msgid "Bottom Right"
+#~ msgstr "Bottom Right"
+
+#~ msgid "Scroll Normally"
+#~ msgstr "Scroll Normally"
+
+#~ msgid "Fixed in Place"
+#~ msgstr "Fixed in Place"
+
+#~ msgid "Italic"
+#~ msgstr "Italic"
+
+#~ msgid "Bold"
+#~ msgstr "Bold"
+
+#~ msgid "Bold Italic"
+#~ msgstr "Bold Italic"
+
+#~ msgid "Automatically add paragraphs"
+#~ msgstr "Automatically add paragraphs"
+
+#~ msgid "文章已从 %s 恢复到修订版本"
+#~ msgstr "文章已从 %s 恢复到修订版本"
+
+#~ msgid "该链接已被点击 %d 次"
+#~ msgstr "该链接已被点击 %d 次"
+
+#~ msgid "超级菜单样式"
+#~ msgstr "超级菜单样式"
+
+#~ msgid "横向菜单分栏"
+#~ msgstr "横向菜单分栏"
+
+#~ msgid "超级菜单短代码"
+#~ msgstr "超级菜单短代码"
+
+#~ msgid "超级菜单图片"
+#~ msgstr "超级菜单图片"
+
+#~ msgid "超级菜单说明"
+#~ msgstr "超级菜单说明"
+
+#~ msgid "选择模板"
+#~ msgstr "选择模板"
+
+#~ msgid "默认模板"
+#~ msgstr "默认模板"
+
+#~ msgid "选择菜单"
+#~ msgstr "选择菜单"
+
+#~ msgid "未开启邀请码功能"
+#~ msgstr "未开启邀请码功能"
+
+#~ msgid "您还没有添加网址"
+#~ msgstr "您还没有添加网址"
+
+#~ msgid "无推荐文章，编辑文章，勾选“首页推荐文章”"
+#~ msgstr "无推荐文章，编辑文章，勾选“首页推荐文章”"
+
+#~ msgid "首页幻灯→右侧模块"
+#~ msgstr "首页幻灯→右侧模块"
+
+#~ msgid "添加文章ID"
+#~ msgstr "添加文章ID"
+
+#~ msgid "可用"
+#~ msgstr "可用"
+
+#~ msgid "已禁用"
+#~ msgstr "已禁用"
+
+#~ msgid "用完"
+#~ msgstr "用完"
+
+#~ msgid "过期"
+#~ msgstr "过期"
+
+#~ msgid "复制小工具"
+#~ msgstr "复制小工具"
+
+#~ msgid "显示用户个人收藏的文章"
+#~ msgstr "显示用户个人收藏的文章"
+
+#~ msgid "标题："
+#~ msgstr "标题："
+
+#~ msgid "文章类型："
+#~ msgstr "文章类型："
+
+#~ msgid "显示删除按钮"
+#~ msgstr "显示删除按钮"
+
+#~ msgid "封面"
+#~ msgstr "Cover"
+
+#~ msgid "添加封面"
+#~ msgstr "添加封面"
+
+#~ msgid "删除封面"
+#~ msgstr "删除封面"
+
+#~ msgid "单色图标"
+#~ msgstr "单色图标"
+
+#~ msgid "彩色图标"
+#~ msgstr "彩色图标"
+
+#~ msgid "添加图片"
+#~ msgstr "添加图片"
+
+#~ msgid "删除图片"
+#~ msgstr "删除图片"
+
+#~ msgid "输入数字自定义排序。"
+#~ msgstr "输入数字自定义排序。"
+
+#~ msgid "分类排序"
+#~ msgstr "分类排序"
+
+#~ msgid "编辑文章，勾选“杂志布局图文模块”"
+#~ msgstr "编辑文章，勾选“杂志布局图文模块”"
+
+#~ msgid "编辑文章，勾选“首页推荐文章”"
+#~ msgstr "编辑文章，勾选“首页推荐文章”"
+
+#~ msgid "自定义字段"
+#~ msgstr "自定义字段"
+
+#~ msgid "值"
+#~ msgstr "值"
+
+#~ msgid "短链接"
+#~ msgstr "短链接"
+
+#~ msgid "添加链接"
+#~ msgstr "添加链接"
+
+#~ msgid "添加新链接"
+#~ msgstr "添加新链接"
+
+#~ msgid "编辑链接"
+#~ msgstr "编辑链接"
+
+#~ msgid "新的链接"
+#~ msgstr "新的链接"
+
+#~ msgid "查看链接"
+#~ msgstr "查看链接"
+
+#~ msgid "搜索链接"
+#~ msgstr "搜索链接"
+
+#~ msgid "你还没有发表链接"
+#~ msgstr "你还没有发表链接"
+
+#~ msgid "回收站中没有链接"
+#~ msgstr "回收站中没有链接"
+
+#~ msgid "链接更新。<a href=\"%s\">查看链接</a>"
+#~ msgstr "链接更新。<a href=\"%s\">查看链接</a>"
+
+#~ msgid "自定义字段已更新。"
+#~ msgstr "自定义字段已更新。"
+
+#~ msgid "自定义字段已删除。"
+#~ msgstr "自定义字段已删除。"
+
+#~ msgid "链接已更新。"
+#~ msgstr "链接已更新。"
+
+#~ msgid "链接已更新。 <a href=\"%s\">查看链接</a>"
+#~ msgstr "链接已更新。 <a href=\"%s\">查看链接</a>"
+
+#~ msgid "链接已保存"
+#~ msgstr "链接已保存"
+
+#~ msgid "链接已提交。"
+#~ msgstr "链接已提交。"
+
+#~ msgid "链接定时"
+#~ msgstr "链接定时"
+
+#~ msgid "链接草稿已更新。"
+#~ msgstr "链接草稿已更新。"
+
+#~ msgid "重定向链接"
+#~ msgstr "重定向链接"
+
+#~ msgid "自定义链接"
+#~ msgstr "自定义链接"
+
+#~ msgid "点击"
+#~ msgstr "点击"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "链接信息"
+#~ msgstr "链接信息"
+
+#~ msgid "重定向后，实际的访问链接"
+#~ msgstr "重定向后，实际的访问链接"
+
+#~ msgid "次数/已用"
+#~ msgstr "次数/已用"
+
+#~ msgid "用户"
+#~ msgstr "用户"
+
+#~ msgid "过期时间"
+#~ msgstr "过期时间"
+
+#~ msgid "操作"
+#~ msgstr "操作"
+
+#~ msgid "启用"
+#~ msgstr "启用"
+
+#~ msgid "禁用"
+#~ msgstr "禁用"
+
+#~ msgid "选项"
+#~ msgstr "选项"
+
+#~ msgid "搜索&#8220;%s&#8221;结果"
+#~ msgstr "搜索&#8220;%s&#8221;结果"
+
+#~ msgid "操作成功"
+#~ msgstr "操作成功"
+
+#~ msgid "操作失败"
+#~ msgstr "操作失败"
+
+#~ msgid "搜索:"
+#~ msgstr "搜索:"
+
+#~ msgid "可使用的邀请码"
+#~ msgstr "可使用的邀请码"
+
+#~ msgid "添加邀请码"
+#~ msgstr "添加邀请码"
+
+#~ msgid "全部邀请码"
+#~ msgstr "全部邀请码"
+
+#~ msgid "成功添加下列邀请码："
+#~ msgstr "成功添加下列邀请码："
+
+#~ msgid "前缀"
+#~ msgstr "前缀"
+
+#~ msgid "可选，自定义前缀"
+#~ msgstr "可选，自定义前缀"
+
+#~ msgid "长度"
+#~ msgstr "长度"
+
+#~ msgid "前缀不计算在内"
+#~ msgstr "前缀不计算在内"
+
+#~ msgid "数量"
+#~ msgstr "数量"
+
+#~ msgid "生成邀请码数量"
+#~ msgstr "生成邀请码数量"
+
+#~ msgid "次数"
+#~ msgstr "次数"
+
+#~ msgid "邀请码使用次数"
+#~ msgstr "邀请码使用次数"
+
+#~ msgid "时间"
+#~ msgstr "时间"
+
+#~ msgid "可选，过期时间，格式：YYYY-MM-DD H:i"
+#~ msgstr "可选，过期时间，格式：YYYY-MM-DD H:i"
+
+#~ msgid "设置已保存"
+#~ msgstr "设置已保存"
+
+#~ msgid "邀请码选项"
+#~ msgstr "邀请码选项"
+
+#~ msgid "获取邀请码按钮"
+#~ msgstr "获取邀请码按钮"
+
+#~ msgid "获取邀请码链接"
+#~ msgstr "获取邀请码链接"
+
+#~ msgid "前端显示邀请码"
+#~ msgstr "前端显示邀请码"
+
+#~ msgid "新建页面 → 页面属性 → 模板 → 选择\"邀请码\"，并发表。"
+#~ msgstr "新建页面 → 页面属性 → 模板 → 选择\"邀请码\"，并发表。"
+
+#~ msgid "更新设置"
+#~ msgstr "更新设置"
+
+#~ msgid "编辑文章，勾选“本站推荐小工具中”"
+#~ msgstr "编辑文章，勾选“本站推荐小工具中”"
+
+#~ msgid "请到外观→小工具页面，添加此小工具！"
+#~ msgstr "请到外观→小工具页面，添加此小工具！"
+
+#~ msgid "选择"
+#~ msgstr "选择"
+
+#~ msgid "顺序"
+#~ msgstr "顺序"
+
+#~ msgid "显示翻页"
+#~ msgstr "显示翻页"
+
+#~ msgid "显示缩略图"
+#~ msgstr "显示缩略图"
+
+#~ msgid "显示数量："
+#~ msgstr "显示数量："
+
+#~ msgid "评论显示数量："
+#~ msgstr "评论显示数量："
+
+#~ msgid "大家喜欢时间限定（天）："
+#~ msgstr "大家喜欢时间限定（天）："
+
+#~ msgid "热门文章时间限定（天）："
+#~ msgstr "热门文章时间限定（天）："
+
+#~ msgid "热评文章时间限定（月）："
+#~ msgstr "热评文章时间限定（月）："
+
+#~ msgid "评论排除的用户ID："
+#~ msgstr "评论排除的用户ID："
+
+#~ msgid "最新文章排除的分类ID，如：1,3："
+#~ msgstr "最新文章排除的分类ID，如：1,3："
+
+#~ msgid "输入起止日期"
+#~ msgstr "输入起止日期"
+
+#~ msgid "调用点赞最多的文章"
+#~ msgstr "调用点赞最多的文章"
+
+#~ msgid "最新文章、热门文章、推荐文章、热门文章等"
+#~ msgstr "最新文章、热门文章、推荐文章、热门文章等"
+
+#~ msgid "Ajax组合小工具"
+#~ msgstr "Ajax组合小工具"
+
+#~ msgid "今日发表的文章"
+#~ msgstr "今日发表的文章"
+
+#~ msgid "本周更新的文章"
+#~ msgstr "本周更新的文章"
+
+#~ msgid "调用限定时间内的文章"
+#~ msgstr "调用限定时间内的文章"
+
+#~ msgid "调用产品文章"
+#~ msgstr "调用产品文章"
+
+#~ msgid "用于显示当前文章或者分类，同级分类"
+#~ msgstr "用于显示当前文章或者分类，同级分类"
+
+#~ msgid "调用相同分类的文章"
+#~ msgstr "调用相同分类的文章"
+
+#~ msgid "以幻灯形式调用指定的文章"
+#~ msgstr "以幻灯形式调用指定的文章"
+
+#~ msgid "调用相同标签的文章"
+#~ msgstr "调用相同标签的文章"
+
+#~ msgid "调用指定ID的文章"
+#~ msgstr "调用指定ID的文章"
+
+#~ msgid "添加折叠树型菜单。"
+#~ msgstr "添加折叠树型菜单。"
+
+#~ msgid "折叠菜单"
+#~ msgstr "折叠菜单"
+
+#~ msgid "显示全部分类或某个分类的文章"
+#~ msgstr "显示全部分类或某个分类的文章"
+
+#~ msgid "以图片封面形式显示分类"
+#~ msgstr "以图片封面形式显示分类"
+
+#~ msgid "调用所有专题标题"
+#~ msgstr "调用所有专题标题"
+
+#~ msgid "分类目录可以显示分类图标"
+#~ msgstr "分类目录可以显示分类图标"
+
+#~ msgid "以折叠目录树方式显示子分类目录"
+#~ msgstr "以折叠目录树方式显示子分类目录"
+
+#~ msgid "滚动显示公告"
+#~ msgstr "滚动显示公告"
+
+#~ msgid "调用专题封面"
+#~ msgstr "调用专题封面"
+
+#~ msgid "最近浏览的文章"
+#~ msgstr "最近浏览的文章"
+
+#~ msgid "多条件筛选"
+#~ msgstr "多条件筛选"
+
+#~ msgid "单栏分类目录"
+#~ msgstr "单栏分类目录"
+
+#~ msgid "调用某个专题文章列表"
+#~ msgstr "调用某个专题文章列表"
+
+#~ msgid "调用相同分类的热门文章"
+#~ msgstr "调用相同分类的热门文章"
+
+#~ msgid "使用Ajax加载短代码"
+#~ msgstr "使用Ajax加载短代码"
+
+#~ msgid "分类标签"
+#~ msgstr "分类标签"
+
+#~ msgid "显示当前文章评论者列表"
+#~ msgstr "显示当前文章评论者列表"
+
+#~ msgid "显示最新公告"
+#~ msgstr "显示最新公告"
+
+#~ msgid "Ajax搜索"
+#~ msgstr "Search"
+
+#~ msgid "显示网址"
+#~ msgstr "显示网址"
+
+#~ msgid "调用任意站点RSS和feed文章"
+#~ msgstr "调用任意站点RSS和feed文章"
+
+#~ msgid "用于显示当前文章图片附件信息"
+#~ msgstr "用于显示当前文章图片附件信息"
+
+#~ msgid "显示全部分类或某个分类的最新文章"
+#~ msgstr "显示全部分类或某个分类的最新文章"
+
+#~ msgid "以图片形式调用一个分类的文章"
+#~ msgstr "以图片形式调用一个分类的文章"
+
+#~ msgid "带头像的近期留言"
+#~ msgstr "带头像的近期留言"
+
+#~ msgid "调用评论最多的文章"
+#~ msgstr "调用评论最多的文章"
+
+#~ msgid "可实现3D特效"
+#~ msgstr "可实现3D特效"
+
+#~ msgid "显示随机文章"
+#~ msgstr "显示随机文章"
+
+#~ msgid "显示相关文章"
+#~ msgstr "显示相关文章"
+
+#~ msgid "调用指定的文章"
+#~ msgstr "调用指定的文章"
+
+#~ msgid "最活跃的读者"
+#~ msgstr "最活跃的读者"
+
+#~ msgid "RSS、微信、微博"
+#~ msgstr "RSS、微信、微博"
+
+#~ msgid "用于侧边添加广告代码"
+#~ msgstr "用于侧边添加广告代码"
+
+#~ msgid "本站信息、RSS、微信、微博、QQ"
+#~ msgstr "本站信息、RSS、微信、微博、QQ"
+
+#~ msgid "调用最新图片文章"
+#~ msgstr "调用最新图片文章"
+
+#~ msgid "调用最新视频文章"
+#~ msgstr "调用最新视频文章"
+
+#~ msgid "调用最新商品"
+#~ msgstr "调用最新商品"
+
+#~ msgid "支持PHP、JavaScript、短代码等"
+#~ msgstr "支持PHP、JavaScript、短代码等"
+
+#~ msgid "即将发表的文章"
+#~ msgstr "即将发表的文章"
+
+#~ msgid "显示所有作者头像"
+#~ msgstr "显示所有作者头像"
+
+#~ msgid "只显示在正文和作者页面"
+#~ msgstr "只显示在正文和作者页面"
+
+#~ msgid "调用最近更新过的文章"
+#~ msgstr "调用最近更新过的文章"
+
+#~ msgid "Ajax 登录注册小工具"
+#~ msgstr "Ajax 登录注册小工具"
+
+#~ msgid "调用指定文章/页面留言"
+#~ msgstr "调用指定文章/页面留言"
+
+#~ msgid "最新文章、热评文章、热门文章、最近留言"
+#~ msgstr "最新文章、热评文章、热门文章、最近留言"
+
+#~ msgid "网站概况"
+#~ msgstr "网站概况"
+
+#~ msgid "调用点击最多的文章"
+#~ msgstr "调用点击最多的文章"
+
+#~ msgid "已更新"
+#~ msgstr "已更新"
+
+#~ msgid "无选项更新"
+#~ msgstr "无选项更新"
+
+#~ msgid "%VIEW_COUNT%"
+#~ msgstr "%VIEW_COUNT%"
+
+#~ msgid "浏览计数设置"
+#~ msgstr "浏览计数设置"
+
+#~ msgid "计数来自："
+#~ msgstr "计数来自："
+
+#~ msgid "所有人"
+#~ msgstr "所有人"
+
+#~ msgid "只有访客"
+#~ msgstr "只有访客"
+
+#~ msgid "只有注册用户"
+#~ msgstr "只有注册用户"
+
+#~ msgid "排除机器："
+#~ msgstr "排除机器："
+
+#~ msgid "否"
+#~ msgstr "否"
+
+#~ msgid "是"
+#~ msgstr "是"
+
+#~ msgid "随机计数："
+#~ msgstr "随机计数："
+
+#~ msgid "随机范围："
+#~ msgstr "随机范围："
+
+#~ msgid "输入一个数值，计数将在1和数值间随机增加"
+#~ msgstr "输入一个数值，计数将在1和数值间随机增加"
+
+#~ msgid "使用Ajax更新浏览次数："
+#~ msgstr "使用Ajax更新浏览次数："
+
+#~ msgid ""
+#~ "如果启用了静态缓存，将使用AJAX在后台更新浏览计数，清理缓存后前端才会显示"
+#~ msgstr ""
+#~ "如果启用了静态缓存，将使用AJAX在后台更新浏览计数，清理缓存后前端才会显示"
+
+#~ msgid "显示模板："
+#~ msgstr "显示模板："
+
+#~ msgid "可使用的变量："
+#~ msgstr "可使用的变量："
+
+#~ msgid "恢复默认模板"
+#~ msgstr "恢复默认模板"
+
+#~ msgid "保存设置"
+#~ msgstr "保存设置"
+
+#~ msgid "Begin主题选项"
+#~ msgstr "Begin主题选项"
+
+#~ msgid "主题选项"
+#~ msgstr "主题选项"
+
+#~ msgid "重置所有设置"
+#~ msgstr "重置所有设置"
+
+#~ msgid "警告：点击确定，之前所有设置修改都将丢失！"
+#~ msgstr "警告：点击确定，之前所有设置修改都将丢失！"
+
+#~ msgid "已重置所有设置"
+#~ msgstr "已重置所有设置"
+
+#~ msgid "Upgrade your version of WordPress for full media support."
+#~ msgstr "Upgrade your version of WordPress for full media support."
+
+#~ msgid "预览文件"
+#~ msgstr "预览文件"
+
+#~ msgid "备份选项"
+#~ msgstr "备份选项"
+
+#~ msgid "备份恢复主题设置"
+#~ msgstr "备份恢复主题设置"
+
+#~ msgid "导出备份"
+#~ msgstr "导出备份"
+
+#~ msgid "导出主题选项设置"
+#~ msgstr "导出主题选项设置"
+
+#~ msgid "导出"
+#~ msgstr "导出"
+
+#~ msgid "导入备份"
+#~ msgstr "导入备份"
+
+#~ msgid "导入主题选项设置"
+#~ msgstr "导入主题选项设置"
+
+#~ msgid "上传并导入"
+#~ msgstr "上传并导入"
+
+#~ msgid "将替换目前的主题选项设置，导入的设置与当前相同将不会导入"
+#~ msgstr "将替换目前的主题选项设置，导入的设置与当前相同将不会导入"
+
+#~ msgid "导入失败，请重试！"
+#~ msgstr "导入失败，请重试！"
+
+#~ msgid "导入成功！%s主题选项%s"
+#~ msgstr "导入成功！%s主题选项%s"
+
+#~ msgid "用于备份恢复主题选项设置"
+#~ msgstr "用于备份恢复主题选项设置"
+
+#~ msgid "备份恢复设置"
+#~ msgstr "备份恢复设置"
+
+#~ msgid "现有"
+#~ msgstr "Existing"
+
+#~ msgid "个网站入驻"
+#~ msgstr "Website"
+
+#~ msgid "输入用户名或电子邮件"
+#~ msgstr "Enter username or email"
+
+#~ msgid "（至少6位）"
+#~ msgstr "（Least 6 characters）"
+
+#~ msgid "(至少6位)"
+#~ msgstr "(Least 6 characters)"
+
+#~ msgid "错误：密码长度至少6位"
+#~ msgstr "Error: The password must be at least 6 characters long"
+
+#~ msgid "错误：密码必须一致"
+#~ msgstr "Error: Password must be consistent"
+
+#~ msgid "欢迎注册本站"
+#~ msgstr "Register For This Site"
+
+#~ msgid "出错了！请检查填写的是否正确."
+#~ msgstr "error! Please check if it is filled in correctly."
+
+#~ msgid "必须勾选才能提交"
+#~ msgstr "Must be checked to submit"
+
+#~ msgid "头像图片要求小于200KB"
+#~ msgstr "Requires less than 200KB"
+
+#~ msgid "出于安全原因，不能上传该类型文件"
+#~ msgstr "For security reasons, this type of file cannot be uploaded"
+
+#~ msgid "文件类型不符合安全准则"
+#~ msgstr "File type does not meet safety guidelines"
+
+#~ msgid "请上传头像的有效图像文件"
+#~ msgstr "Please upload a valid image file for the avatar"
+
+#~ msgid "评论："
+#~ msgstr "Comment "
+
+#~ msgid "其中：访客"
+#~ msgstr "Visitors"
+
+#~ msgid "博主"
+#~ msgstr "Admin"
+
+#~ msgid "来自外部的引用："
+#~ msgstr "Pingback"
+
+#~ msgid "此处为隐藏的内容！"
+#~ msgstr "The content of the hide!"
+
+#~ msgid "发表评论并刷新，方可查看"
+#~ msgstr "Post a comment to view"
+
+#~ msgid "隐藏的内容"
+#~ msgstr "Hidden content"
+
+#~ msgid "登录后方可查看！"
+#~ msgstr "Login to view!"
+
+#~ msgid "输入密码查看隐藏内容："
+#~ msgstr "Password view:"
+
+#~ msgid "输入验证码查看隐藏内容："
+#~ msgstr "Enter the verification code to view the content:"
+
+#~ msgid "字"
+#~ msgstr "word"
+
+#~ msgid "修改信息"
+#~ msgstr "Change"
+
+#~ msgid "插入图片"
+#~ msgstr "Insert picture"
+
+#~ msgid "插入表情"
+#~ msgstr "Insert emoji"
+
+#~ msgid "插入图片地址"
+#~ msgstr "Insert into images"
+
+#~ msgid "个人资料已更新！"
+#~ msgstr "Profile updated."
+
+#~ msgid "更新个人资料"
+#~ msgstr "Update Profile"
+
+#~ msgid "个人资料"
+#~ msgstr "Your Profile"
+
+#~ msgid "筛选结果"
+#~ msgstr "result"
+
+#~ msgid "附件"
+#~ msgstr "Attachment"
+
+#~ msgid "的文章"
+#~ msgstr "Articles"
+
+#~ msgid "亲，你迷路了！"
+#~ msgstr "404"
+
+#~ msgid "找到"
+#~ msgstr "Find"
+
+#~ msgid "个相关内容"
+#~ msgstr "Article"
+
+#~ msgid "取消回复"
+#~ msgstr "Cancel reply"
+
+#~ msgid "隐藏目录"
+#~ msgstr "Hide"
+
+#~ msgid "错误：两次输入的密码不一致！"
+#~ msgstr "Error: The two passwords are not consistent with each other "
+
+#~ msgid "隐藏"
+#~ msgstr "Hide "
+
+#~ msgid "返回顶部"
+#~ msgstr "Top"
+
+#~ msgid "转到底部"
+#~ msgstr "Bottom "
+
+#~ msgid "夜间模式"
+#~ msgstr "Night"
+
+#~ msgid "白天模式"
+#~ msgstr "Day"
+
+#~ msgid "两次输入的密码不一致！"
+#~ msgstr "The two passwords are inconsistent!"
+
+#~ msgid "该电子邮件已被其他用户使用！"
+#~ msgstr "Email has been used before!"
+
+#~ msgid "呢称"
+#~ msgstr "Nickname"
+
+#~ msgid "匹配的文章"
+#~ msgstr "Articles found"
+
+#~ msgid "个人资料已更新。"
+#~ msgstr "Profile updated."
+
+#~ msgid "两次输入的密码不一样！"
+#~ msgstr "Two input password is not the same!"
+
+#~ msgid "登录名 (不可更改)"
+#~ msgstr "Username(cannot be changed)"
+
+#~ msgid "名字（字母或数字）"
+#~ msgstr "First Name"
+
+#~ msgid "呢称 (必填)"
+#~ msgstr "Nickname (required)"
+
+#~ msgid "公开显示"
+#~ msgstr "Display name publicly as"
+
+#~ msgid "电子邮件 (必填)"
+#~ msgstr "Email (required)"
+
+#~ msgid "重复新密码"
+#~ msgstr "Repeat the new password"
+
+#~ msgid "其它信息"
+#~ msgstr "Contact Info"
+
+#~ msgid "站点"
+#~ msgstr "Website"
+
+#~ msgid "输入百度站内搜索关键词"
+#~ msgstr "Search Content"
+
+#~ msgid "输入必应站内搜索关键词"
+#~ msgstr "Search Content"
+
+#~ msgid "输入360站内搜索关键词"
+#~ msgstr "Search Content"
+
+#~ msgid "输入搜狗站内搜索关键词"
+#~ msgstr "Search Content"
+
+#~ msgid "退出"
+#~ msgstr "Log out"
+
+#~ msgid "文章排序"
+#~ msgstr "Sorting"
+
+#~ msgid "按日期排序"
+#~ msgstr "Date"
+
+#~ msgid "按评论排序"
+#~ msgstr "Comment"
+
+#~ msgid "按浏览排序"
+#~ msgstr "Views"
+
+#~ msgid "按点赞排序"
+#~ msgstr "Like"
+
+#~ msgid "提示：必须填写昵称。"
+#~ msgstr "Tip: You must fill in a nickname."
+
+#~ msgid "提示：必须填写昵称及邮件。"
+#~ msgstr ""
+#~ "Your email address will not be published. Required fields are marked *"
+
+#~ msgid "提示：请输入一个有效的电子邮件地址。"
+#~ msgstr "please fill the required fields (name, email)."
+
+#~ msgid "提示：请输入评论内容。"
+#~ msgstr "please type a comment."
+
+#~ msgid "邀请码错误，请重新输入！"
+#~ msgstr "Wrong invitation code!"
+
+#~ msgid "邀请码已失效，请重新输入！"
+#~ msgstr "The invitation code has expired!"
+
+#~ msgid "状态（最大使用数 / 可用）"
+#~ msgstr "Status (maximum usage / available)"
+
+#~ msgid "1F"
+#~ msgstr "1F"
+
+#~ msgid "2F"
+#~ msgstr "2F"
+
+#~ msgid "3F"
+#~ msgstr "3F"
+
+#~ msgid "F"
+#~ msgstr "F"
+
+#~ msgid "B"
+#~ msgstr "B"
+
+#~ msgid "请输入正确的邀请码！"
+#~ msgstr "Please enter the correct invitation code!"
+
+#~ msgid "此邀请码已被使用！"
+#~ msgstr "This invitation code has been used!"
+
+#~ msgid "邀请码链接"
+#~ msgstr "Invitation code link"
+
+#~ msgid "数字英文"
+#~ msgstr "Digital English"
+
+#~ msgid "点此关闭"
+#~ msgstr "Close"
+
+#~ msgid "再写一篇"
+#~ msgstr "Write Another"
+
+#~ msgid "已提交!"
+#~ msgstr "Submitted!"
+
+#~ msgid "继续编辑"
+#~ msgstr "Edit"
+
+#~ msgid "添加特色图像"
+#~ msgstr "Featured image"
+
+#~ msgid "朗读文章"
+#~ msgstr "Reading"
+
+#~ msgid "关闭投稿页面"
+#~ msgstr "Close"
+
+#~ msgid "您的文章已提交!"
+#~ msgstr "Article submitted!"
+
+#~ msgid "文章标题"
+#~ msgstr "Title"
+
+#~ msgid "文章内容"
+#~ msgstr "Content"
+
+#~ msgid "选择分类"
+#~ msgstr "Categories"
+
+#~ msgid "选择一张图像"
+#~ msgstr "Choose an image from your computer:"
+
+#~ msgid "出错了！"
+#~ msgstr "error!"
+
+#~ msgid "登录后收藏"
+#~ msgstr "Favorite after login"
+
+#~ msgid "获取邀请码"
+#~ msgstr "Invite code"
+
+#~ msgid "今天是："
+#~ msgstr "Today is:"
+
+#~ msgid "赞"
+#~ msgstr "Like"
+
+#~ msgid "您必须"
+#~ msgstr "You must be"
+
+#~ msgid "才能发表评论！"
+#~ msgstr "to post a comment."
+
+#~ msgid "登出"
+#~ msgstr "Log out"
+
+#~ msgid "输入验证码"
+#~ msgstr "Captcha"
+
+#~ msgid "缺少请求ID"
+#~ msgstr "Missing request ID"
+
+#~ msgid "请输入验证码"
+#~ msgstr "please enter verification code"
+
+#~ msgid "验证码过期，刷新后重新操作"
+#~ msgstr "Verification code expired, re-operation after refresh"
+
+#~ msgid "密码会通过邮箱发给您"
+#~ msgstr "Password is sent to you by email"
+
+#~ msgid "重置密码链接会发到你邮箱中"
+#~ msgstr "Send reset password link email"
+
+#~ msgid "管理站点"
+#~ msgstr "Site Admin"
+
+#~ msgid "请输入用户名！"
+#~ msgstr "Please fill in the user name!"
+
+#~ msgid "此用户名包含无效字符，请输入有效的用户名！"
+#~ msgstr "User name contains invalid characters!"
+
+#~ msgid "该用户名已被注册，请再选择一个！"
+#~ msgstr "This user name has been registered!"
+
+#~ msgid "请填写电子邮件地址！"
+#~ msgstr "Please fill in email address!"
+
+#~ msgid "电子邮件地址不正确！"
+#~ msgstr "Email address is not correct!"
+
+#~ msgid "该电子邮件地址已经被注册，请换一个！"
+#~ msgstr "This email address has been registered!"
+
+#~ msgid "邀请码错误！"
+#~ msgstr "Invite code error!"
+
+#~ msgid "密码长度至少6位!"
+#~ msgstr "Password length at least six!"
+
+#~ msgid "密码不一致!"
+#~ msgstr "Passwords do not match!"
+
+#~ msgid "电子邮件地址"
+#~ msgstr "Email Address"
+
+#~ msgid "密码(至少6位)"
+#~ msgstr "Password(at least 6 digits)"
+
+#~ msgid "推荐专题"
+#~ msgstr "Recommend"
+
+#~ msgid "请稍等"
+#~ msgstr "Please wait"
+
+#~ msgid "请输入正确用户名和密码以登录"
+#~ msgstr "Please enter the correct username and password to log in"
+
+#~ msgid "请输入一个有效用户名"
+#~ msgstr "Please enter a valid username"
+
+#~ msgid "此用户名已被注册"
+#~ msgstr "This username has already been registered"
+
+#~ msgid "无法注册，请联系管理员"
+#~ msgstr "Unable to register, please contact the administrator"
+
+#~ msgid "注册成功"
+#~ msgstr "registration success"
+
+#~ msgid "密码(至少6位)*"
+#~ msgstr "Password*"
+
+#~ msgid "重复密码*"
+#~ msgstr "Repeat the password*"
+
+#~ msgid "<strong>错误</strong>: 请输入正确的邀请码！"
+#~ msgstr "<strong>Error</strong>: Please enter the correct invitation code!"
+
+#~ msgid "<strong>错误</strong>: 此邀请码已被使用！"
+#~ msgstr "<strong>Error</strong>: This invitation code is already in use!"
+
+#~ msgid "站内消息"
+#~ msgstr "Message"
+
+#~ msgid "没有了"
+#~ msgstr "None"
+
+#~ msgid "已是最后文章"
+#~ msgstr "Is the last"
+
+#~ msgid "已是最新文章"
+#~ msgstr "Is the latest"
+
+#~ msgid "立即注册"
+#~ msgstr "Go Register"
+
+#~ msgid "点击“立即注册”转到用户注册页面。"
+#~ msgstr "Go to the user registration page."
+
+#~ msgid "输入用户名或电子邮箱地址，您会收到一封新密码链接的电子邮件。"
+#~ msgstr ""
+#~ "Please enter your username or email address. You will receive a link to "
+#~ "create a new password via email."
+
+#~ msgid "用户名或电子邮件地址"
+#~ msgstr "Username or Email Address"
+
+#~ msgid "文字折叠"
+#~ msgstr "Folding Text"
+
+#~ msgid "1楼"
+#~ msgstr "1F"
+
+#~ msgid "2楼"
+#~ msgstr "2F"
+
+#~ msgid "3楼"
+#~ msgstr "3F"
+
+#~ msgid "楼"
+#~ msgstr "F"
+
+#~ msgid "层"
+#~ msgstr "B"
+
+#~ msgid "提交注册"
+#~ msgstr "Register"
+
+#~ msgid "沙发"
+#~ msgstr "1F"
+
+#~ msgid "板凳"
+#~ msgstr "2F"
+
+#~ msgid "地板"
+#~ msgstr "3F"
+
+#~ msgid "您好"
+#~ msgstr "Hi"
+
+#~ msgid "提交评论"
+#~ msgstr "Post Comment"
+
+#~ msgid "目前评论："
+#~ msgstr "Replies to："
+
+#~ msgid "版权声明："
+#~ msgstr "Copyright："
+
+#~ msgid "转载注明："
+#~ msgstr "Reprinted："
+
+#~ msgid "护眼模式"
+#~ msgstr "Eye protection mode"
+
+#~ msgid "登录者："
+#~ msgstr "Howdy！"
+
+#~ msgid "欢迎"
+#~ msgstr "Howdy"
+
+#~ msgid "再次光临！"
+#~ msgstr "You'll come again!"
+
+#~ msgid "输入密码查看加密内容："
+#~ msgstr "Enter the password:"
+
+#~ msgid "抱歉，没有符合您的搜索内容。 请尝试换个关键字再试一次。"
+#~ msgstr ""
+#~ "Sorry, but nothing matched your search terms. Please try again with some "
+#~ "different keywords."
+
+#~ msgid "抱歉，没有符合您的搜索内容。 请使用一些不同的关键字再试一次。"
+#~ msgstr ""
+#~ "Sorry, but nothing matched your search terms. Please try again with some "
+#~ "different keywords."
+
+#~ msgid " 找到 "
+#~ msgstr "  Find  "
+
+#~ msgid " 篇文章 "
+#~ msgstr "yyuj"
+
+#~ msgid "可以尝试使用下面的搜索功能，查找您喜欢的文章！"
+#~ msgstr ""
+#~ "Sorry, but nothing matched your search terms. Please try again with some "
+#~ "different keywords."
+
+#~ msgid "转载请注明："
+#~ msgstr "Reprinted："
+
+#~ msgid "已收藏"
+#~ msgstr "Remove  favorite"
+
+#~ msgid "收藏本文"
+#~ msgstr "Favorites"
+
+#~ msgid "全部删除"
+#~ msgstr "Delete all"
+
+#~ msgid "暂无文章收藏"
+#~ msgstr "No article"
+
+#~ msgid "发表评论并刷新，才能查看"
+#~ msgstr "Comments after reading"
+
+#~ msgid "登录后才能查看！"
+#~ msgstr "Log in to view!"
+
+#~ msgid "新浪微博"
+#~ msgstr "weibo."
+
+#~ msgid "上传本地头像"
+#~ msgstr "Upload the local picture"
+
+#~ msgid "联系我们"
+#~ msgstr "Contact us"
+
+#~ msgid "请输入您的姓名和一个有效的电子邮件地址及邮件内容。"
+#~ msgstr "Please enter your name and a valid email address and email."
+
+#~ msgid "您的电子邮件发送失败，请稍后再试。"
+#~ msgstr "Your email failed, please try again later."
+
+#~ msgid "由"
+#~ msgstr "By"
+
+#~ msgid "整理发表"
+#~ msgstr "Finishing"
+
+#~ msgid "本站原创文章"
+#~ msgstr "Original articles"
+
+#~ msgid "有回复时邮件通知我"
+#~ msgstr "Notify me when replied"
+
+#~ msgid " 个与之相关的文章"
+#~ msgstr "Related Articles"
+
+#~ msgid "收 <i class=\"fa-heart fa\"></i> 藏"
+#~ msgstr "<i class=\"fa-heart fa\"></i> Favorites"
+
+#~ msgid "<i class=\"fa fa-angle-left\"></i>上页"
+#~ msgstr "<i class=\"fa fa-angle-left\"></i>Previous"
+
+#~ msgid "下页<i class=\"fa fa-angle-right\"></i>"
+#~ msgstr "Next"
+
+#~ msgid "全站"
+#~ msgstr "All"
+
+#~ msgid "问题"
+#~ msgstr "Question"
+
+#~ msgid "公开显示为"
+#~ msgstr "Display name publicly "
+
+#~ msgid "Previous Entries"
+#~ msgstr "五"
+
+#~ msgid "<i class=\"fa fa-angle-left\"></i>Previous Entries"
+#~ msgstr "<i class=\"fa fa-angle-left\"></i>上页"
+
+#~ msgid "用户ID"
+#~ msgstr "User ID"
+
+#~ msgid "注册时间："
+#~ msgstr "Member since:"
+
+#~ msgid "博主："
+#~ msgstr "Admin"
+
+#~ msgid "页面加载中..."
+#~ msgstr "Loading in..."
+
+#~ msgid "请滑动滚动条解锁"
+#~ msgstr "Slide to unlock"
+
+#~ msgid "登 录"
+#~ msgstr "Log In"
+
+#~ msgid "注 册"
+#~ msgstr "Register"
+
+#~ msgid "登 出"
+#~ msgstr "Log Out"
+
+#~ msgid "search"
+#~ msgstr "搜索"
